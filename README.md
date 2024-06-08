@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... 
 - 📫 How to reach me ... WEB SITE 
-- 😄 Pronouns: ... LalO 
+- 😄 Pronouns: ... Lalo
 - ⚡ Fun fact: ...
 
 <!---
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>IT engineer</b></li>
-    <li>📍 WEB SITE
+    <li>📍 Web Site 
     <li>🏢 I'm working for <b>Specialist of Projects</b> & <b>LinIT</b></li>
     <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
     <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
