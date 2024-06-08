@@ -200,6 +200,3 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 ------
 
-Credit: [Anderson Mendoza](https://github.com/andermendoza)
-
-Last Edited on: 26/09/2022
