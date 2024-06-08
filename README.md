@@ -12,7 +12,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>IT engineer</b></li>
     <li>📍 Web Site 
-    <li>🏢 I'm working for <b>Specialist of Projects</b> & <b>HOSPITAL,AIPORTS,HOTELS,SCHOOLS,MUSEUMS,USEDMIXTED,HOUSE RESIDENTIAL</b></li>
+    <li>🏢 I'm working for <b>Specialist of Projects</b> & <b>HOSPITAL,AIPORTS,HOTELS,SCHOOLS,MUSEUMS,USEDMIXTED,REATIL HOUSE RESIDENTIAL</b></li>
     <li>🌱 I'm currently learning <b>COA Mongodb</b> and <b>MySQL React JS</b></li>
     <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
     <li>📮 You can contact me directly here : <b>linkedin</b>
