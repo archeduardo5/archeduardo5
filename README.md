@@ -16,8 +16,8 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
     <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
     <li>📮 You can contact me directly here : <b>linkedin</b>
-      - 😄 Pronouns: ... Lalo
-     - 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG.WE-WORK 
+    <li> - 😄 Pronouns: ... Lalo
+    <li>- 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG.WE-WORK 
   </ul>
 Passionate IT engineer archiand trainer, I am always looking for new challenges.
 <br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
