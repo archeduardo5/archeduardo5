@@ -15,7 +15,6 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>🏢 I'm working for <b>Specialist of Projects</b> & <b>Hospitals,Aiports International,Hotel,Schools,Museums,Used Mixted,Retail House Residential</b></li>
     <li>🌱 I'm currently learning <b>Mongodb</b> and <b>MySQL React JS</b></li>
     <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
-    <li>📮 You can contact me directly here : <b>https://www.linkedin.com/in/eduardo-ibarra91</b>
     <li> - 😄 Pronouns: ... Lalo
     <li>- 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG WE-WORK ... CONMA Construye & Crea
   </ul>
@@ -36,9 +35,6 @@ If you want to discuss about it, feel free to contact me.
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
 
-
-
-  ## Introduction
 
 OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
  
