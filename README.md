@@ -35,6 +35,18 @@ If you want to discuss about it, feel free to contact me.
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+
+
+
+  ## Introduction
+
+OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
+ 
+[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+
+## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+
+For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
