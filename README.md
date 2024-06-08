@@ -5,10 +5,11 @@ archeduardo5/archeduardo5 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi C0ders, i'm Eduardo Ibarra
+# Hi Coders, i'm Eduardo Ibarra
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
-Hi, nice to meet you. Let me introduce my profile in a few lines.
+
+
   <ul>
     <li>👨‍🔧 I'm an <b>IT engineer</b></li>
     <li>📍 Web Site X ... Youtube ... linkedin ... Instagram ... stack-overflow
@@ -26,14 +27,6 @@ If you want to discuss about it, feel free to contact me.
 
 
 
-
-
-   <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
 
 
 
