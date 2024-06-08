@@ -15,7 +15,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>🏢 I'm working for <b>Specialist of Projects</b> & <b>Hospitals,Aiports International,Hotel,Schools,Museums,Used Mixted,Retail House Residential</b></li>
     <li>🌱 I'm currently learning <b>Mongodb</b> and <b>MySQL React JS</b></li>
     <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
-    <li>📮 You can contact me directly here : <b>linkedin</b>
+    <li>📮 You can contact me directly here : <b>https://www.linkedin.com/in/eduardo-ibarra91</b>
     <li> - 😄 Pronouns: ... Lalo
     <li>- 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG WE-WORK ... CONMA Construye & Crea
   </ul>
