@@ -17,7 +17,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
     <li>📮 You can contact me directly here : <b>linkedin</b>
     <li> - 😄 Pronouns: ... Lalo
-    <li>- 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG.WE-WORK 
+    <li>- 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG.WE-WORK ... CONMA Construye & Crea
   </ul>
 Passionate IT engineer archiand trainer, I am always looking for new challenges.
 <br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>Integrations BIM</b> and <b>Data Scripting APIS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
