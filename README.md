@@ -12,7 +12,7 @@ archeduardo5/archeduardo5 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi everyone, i'm LALO IBARRA 
+# Hi everyone, i'm Eduardo Ibarra
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
