@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>IT engineer</b></li>
-    <li>📍 Web Site 
+    <li>📍 Web Site X ... Youtube ... linkedin
     <li>🏢 I'm working for <b>Specialist of Projects</b> & <b>Hospitals,Aiports International,Hotel,Schools,Museums,Used Mixted,Retail House Residential</b></li>
     <li>🌱 I'm currently learning <b>Mongodb</b> and <b>MySQL React JS</b></li>
     <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
