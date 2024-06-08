@@ -21,7 +21,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>📍 WEB SITE
     <li>🏢 I'm working for <b>Specialist of Projects</b> & <b>LinIT</b></li>
     <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
-    <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Consstruction Cloude...</b></li>
+    <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
     <li>📮 You can contact me directly here : <b>linkedin</b>
   </ul>
 Passionate IT engineer archiand trainer, I am always looking for new challenges.
