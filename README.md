@@ -12,9 +12,24 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>IT engineer</b></li>
     <li>📍 Web Site X ... Youtube ... linkedin ... Instagram
+    <li>🏢 I'm working for <b>Specialist of Projects</b> & <b>Hospitals,Aiports International,Hotel,Schools,Museums,Used Mixted,Retail House Residential</b></li>
+    <li>🌱 I'm currently learning <b>Mongodb</b> and <b>MySQL React JS</b></li>
+    <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
+    <li>📮 You can contact me directly here : <b>https://www.linkedin.com/in/eduardo-ibarra91</b>
+    <li> - 😄 Pronouns: ... Lalo
+    <li>- 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG WE-WORK ... CONMA Construye & Crea
+  </ul>
+Architectural Engineer with a Master's degree in Interior Space Habitat, passionate, former professor of the university degree at my university. 
+I play chess and run in my free time...I'm always looking for new challenges.
+<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>Integrations BIM</b> and <b>Data Scripting APIS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
+If you want to discuss about it, feel free to contact me.
+</p>
 
 
-     <p align="center">
+
+
+
+   <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
@@ -33,19 +48,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 
 
-    <li>🏢 I'm working for <b>Specialist of Projects</b> & <b>Hospitals,Aiports International,Hotel,Schools,Museums,Used Mixted,Retail House Residential</b></li>
-    <li>🌱 I'm currently learning <b>Mongodb</b> and <b>MySQL React JS</b></li>
-    <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
-    <li>📮 You can contact me directly here : <b>https://www.linkedin.com/in/eduardo-ibarra91</b>
-    <li> - 😄 Pronouns: ... Lalo
-    <li>- 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG WE-WORK ... CONMA Construye & Crea
-  </ul>
-Architectural Engineer with a Master's degree in Interior Space Habitat, passionate, former professor of the university degree at my university. 
-I play chess and run in my free time...I'm always looking for new challenges.
-<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>Integrations BIM</b> and <b>Data Scripting APIS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
-If you want to discuss about it, feel free to contact me.
-</p>
-
+    
 
 
 
