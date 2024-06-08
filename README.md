@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>IT engineer</b></li>
-    <li>📍 Web Site X ... Youtube ... linkedin ... Instagram
+    <li>📍 Web Site X ... Youtube ... linkedin ... Instagram ... stack-overflow
     <li>🏢 I'm working for <b>Specialist of Projects</b> & <b>Hospitals,Aiports International,Hotel,Schools,Museums,Used Mixted,Retail House Residential</b></li>
     <li>🌱 I'm currently learning <b>Mongodb</b> and <b>MySQL React JS</b></li>
     <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
@@ -36,11 +36,6 @@ If you want to discuss about it, feel free to contact me.
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
 
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
-
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
 
 For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
