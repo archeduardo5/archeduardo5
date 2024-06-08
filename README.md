@@ -20,7 +20,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>- 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG.WE-WORK 
   </ul>
 Passionate IT engineer archiand trainer, I am always looking for new challenges.
-<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
+<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>Integrations BIM</b> and <b>DATA SCRIPTING</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
 If you want to discuss about it, feel free to contact me.
 </p>
 
