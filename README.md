@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
     <li>🌱 I'm currently learning <b>Mongodb</b> and <b>MySQL React JS</b></li>
     <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
     <li> - 😄 Pronouns: ... Lalo
-    <li>- 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG WE-WORK ... CONMA Construye & Crea
+    <li> - Ich spreche Deutsch🇩🇪
+    <li>- 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG WE-WORK ... CONMA Construye & Mantiene
   </ul>
 Architectural Engineer with a Master's degree in Interior Space Habitat, passionate, former professor of the university degree at my university. 
 I play chess and run in my free time...I'm always looking for new challenges.
