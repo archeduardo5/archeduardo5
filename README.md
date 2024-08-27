@@ -5,7 +5,7 @@ archeduardo5/archeduardo5 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# hallo hallo , Ich bin Eduardo Ibarra
+# Hallo , Ich bin Eduardo Ibarra
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
 
