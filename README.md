@@ -5,25 +5,24 @@ archeduardo5/archeduardo5 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi Coders, i'm Eduardo Ibarra
+# hallo hallo , Ich bin Eduardo Ibarra
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
 
-
-  <ul>
-    <li>👨‍🔧 I'm an <b>IT Architectural Engineer </b></li>
-    <li>📍 Web Site X ... Youtube ... linkedin ... Instagram ... stack-overflow
-    <li>🏢 I'm working for <b>Specialist of Projects</b> & <b>Hospitals,Aiports International,Hotel,Schools,Museums,Used Mixted,Retail House Residential</b></li>
-    <li>🌱 I'm currently learning <b>Mongodb</b> and <b>MySQL React JS</b></li>
-    <li>💬 You can ask me about <b>Design, Arquitecture, Ecosystem Construction Cloud...</b></li>
-    <li> - 😄 Pronouns: ... Lalo
-    <li> - Ich spreche Deutsch🇩🇪..Trochu češtiny...LATIN
-    <li>- 💞️ I’m looking to collaborate on ... GAIP ... fr-ee Fernado Romero Enterprise ... IDOM ... SEDENA ... BVG WE-WORK ... CONMA Construye & Mantiene
-  </ul>
-Architectural Engineer with a Master's degree in Interior Space Habitat, passionate, former professor of the university degree at my university. 
-I play chess and run in my free time...I'm always looking for new challenges.
-<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>Integrations BIM</b> and <b>Data Scripting APIS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
-If you want to discuss about it, feel free to contact me.
+<ul>
+ <li> 👨‍🔧 Ich bin ein es -architekturingenieur </b> </li>
+ <li> 📍 Website X ... YouTube ... LinkedIn ... Instagram ... Stack-Overflow
+ <li> 🏢 Ich arbeite für den <b> Spezialisten für Projekte </b> & <b> Krankenhäuser, Aiports International, Hotel, Schulen, Museen, gebrauchte Mischung, Einzelhandelshaus in Wohngebieten </b> </li>
+ <li> 🌱 Ich lerne derzeit <b> mongoDB </b> und <b> mysql reags js </b> </li>
+ <li> 💬 Sie können mich nach <b> Design, Arquitektur, Ökosystemkonstruktionswolke fragen ... </b> </li>
+ <li> - 😄 Pronomen: ... Lalo
+ <li> - ich spreche deutsch🇩🇪..trochu češtiny ... lateinisch
+ <li>-💞️ Ich möchte an ... Gaip ... Fr-ee Fernado Romero Enterprise ... Idom ... Sedena ... Bvg We-Work ... Conma Construye & Mantiene zusammenarbeiten
+ </ul>
+Architekturingenieur mit einem Master -Abschluss in Innenraumlebensraum, leidenschaftlich, ehemaliger Professor für Universitätsabschluss an meiner Universität.
+Ich spiele Schach und laufe in meiner Freizeit ... Ich bin immer auf der Suche nach neuen Herausforderungen.
+<br> Seit einigen Jahren konzentriere ich mich auf Cloud -Architektur und Bereitstellung, insbesondere mit <b> Integrationen BIM </b> und <b> Data Scripting -APIs </b> Lösungen sowie <b> Containerisierungstechnologien </b>. Ich arbeite auch an <b> Lerninhalten </b> zu denselben Themen. <br>
+Wenn Sie darüber diskutieren möchten, können Sie mich gerne kontaktieren.
 </p>
 
 
