@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
  <li> 💬 Sie können mich nach <b> Design, Arquitektur, Ökosystemkonstruktionswolke fragen ... </b> </li>
  <li> - 😄 Pronomen: ... Lalo
  <li> - ich spreche english ..trochu češtiny ... lateinisch
- <li>-💞️ Ich möchte an ... Gaip ... Fr-ee Fernado Romero Enterprise ... Idom ... Sedena ... Bvg We-Work ... Conma Construye & Mantiene zusammenarbeiten
+ <li>-💞️ Ich möchte an ... Gaip ... Fr-ee Fernado Romero Enterprise ... Idom ... Sedena ... Bvg We-Work ...
  </ul>
 Architekturingenieur mit einem Master -Abschluss in Innenraumlebensraum, leidenschaftlich, ehemaliger Professor für Universitätsabschluss an meiner Universität.
 Ich spiele Schach und laufe in meiner Freizeit ... Ich bin immer auf der Suche nach neuen Herausforderungen.
