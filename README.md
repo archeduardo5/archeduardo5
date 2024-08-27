@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
  <li> 👨‍🔧 Ich bin ein es -architekturingenieur </b> </li>
  <li> 📍 Website X ... YouTube ... LinkedIn... Stack-Overflow
  <li> 🏢 Ich arbeite für den <b> Spezialisten für Projekte </b> & <b> Krankenhäuser, Aiports International, Hotel, Schulen, Museen, gebrauchte Mischung, Einzelhandelshaus in Wohngebieten </b> </li>
- <li> 🌱 Ich lerne derzeit <b> mongoDB </b> und <b> mysql reags js </b> </li>
+ <li> 🌱 Ich lerne derzeit <b> MongoDB </b> und <b> MySQL ReactJS </b> </li>
  <li> 💬 Sie können mich nach <b> Design, Arquitektur, Ökosystemkonstruktionswolke fragen ... </b> </li>
  <li> - 😄 Pronomen: ... Lalo
  <li> - ich spreche english ..trochu češtiny ... lateinisch
