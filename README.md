@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
  <li> 🌱 Ich lerne derzeit <b> mongoDB </b> und <b> mysql reags js </b> </li>
  <li> 💬 Sie können mich nach <b> Design, Arquitektur, Ökosystemkonstruktionswolke fragen ... </b> </li>
  <li> - 😄 Pronomen: ... Lalo
- <li> - ich spreche deutsch🇩🇪..trochu češtiny ... lateinisch
+ <li> - ich spreche english ..trochu češtiny ... lateinisch
  <li>-💞️ Ich möchte an ... Gaip ... Fr-ee Fernado Romero Enterprise ... Idom ... Sedena ... Bvg We-Work ... Conma Construye & Mantiene zusammenarbeiten
  </ul>
 Architekturingenieur mit einem Master -Abschluss in Innenraumlebensraum, leidenschaftlich, ehemaliger Professor für Universitätsabschluss an meiner Universität.
