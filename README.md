@@ -135,8 +135,7 @@ Eduardo	Ibarra</a></h1>
 
 ![infrastructure-1st-story-panel1-960x532px-768x426](https://github.com/user-attachments/assets/631f97a6-564d-49da-ad99-c3b006b78856)
 
-
-
+`Teamwork AEC Winner 1 Autodesk University 2017 "Las Vegas" Image Courtesy of Foster+ Partners.
 
 
 
