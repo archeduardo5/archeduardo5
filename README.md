@@ -154,6 +154,20 @@ Eduardo	Ibarra</a></h1>
 
 ![ww](https://github.com/user-attachments/assets/86515d74-eca5-45a8-af6f-7209814a3244)
 
+Visit to site N.A.I.C.M Texcoco
+
+![Mexico-City-Airport-Slidrer-08](https://github.com/user-attachments/assets/3a7a734c-cb5d-4c96-998a-dd5a23e094c3)
+
+
+
+
+
+
+![1687985203282](https://github.com/user-attachments/assets/2b0898f7-4b8f-40d4-920c-780eea9813c6)
+
+
+
+
 
 -----
 
