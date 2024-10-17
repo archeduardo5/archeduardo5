@@ -1,142 +1,107 @@
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2259 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌆 Daytime                4328 commits        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+🌃 Evening                3619 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+🌙 Night                  4344 commits        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1966 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Tuesday                  2001 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Wednesday                2538 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Thursday                 1635 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Friday                   2550 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Saturday                 1738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Sunday                   2122 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+```
 
 
 
-### Hi there 👋
+<!--END_SECTION:waka-->
+  ✨Catch me night only, especially between the Fri. evening to the Mon. early morning. 
+</td><td valign="top" width="33%">
+<p align="right">
 
-
-
-
-<p>Connect with me on
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:ahmed.bilal575@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://twitter.com/ahmadshaikhk"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-
-
-<br>
-</p>
-- 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am batman. 😎🦇 
-
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ahmad-shaikh575&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
-
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmad-shaikh575&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmad-shaikh575&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ahmad-shaikh575&theme=gruvbox&hide_border=true&area=true)
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
+  ***
   
+  > 人类对科技，一比零 :s
+  
+  ***
+  
+<img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
-&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-
-
+  ***
+  
+  > Human Vs. AI (1:0) :s
+  
+  ***
+  
 </p>
+</td></tr></table>
 
-### 👉 Frameworks
-<p align="left"> 
-&emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-   </a>
-  &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
-</p>
+<table><tr><td valign="top" width="33%">
+  
+### 🏷Recent releases
+<!-- recent_releases starts -->
+[OlivaBiliLive release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - Near Future
 
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
- </p>
+[iamai v0.0.3rc3](https://github.com/retrofor/iamai/releases/tag/v0.0.3rc3) - 2024-02-23
 
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-    &emsp;
-     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-    &emsp;
-    
-</p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
+[testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
 
+[unpredictableFate v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - 2023-10-19
 
-<br/>
+[flarum-post-formatter v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - 2023-05-19
+
+[BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/v0.1.0) - 2023-04-21
+
+[Flexirobo v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - 2023-04-11
+
+[AO3Search v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - 2023-04-06
+<!-- recent_releases ends -->
+
+_More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
+</td><td valign="top" width="33%">
+
+### 📰Academic site
+<!-- blog starts -->
+<details><summary>2024-05-25 <a href="https://academic.jyunko.cn/2024/05/25/Can-KAN-beat-MLPs">Can Kolmogorov–Arnold Networks (KAN) beat MLPs?</a></summary><p>Lately, it seems that the entire AI community has become about one and one thing only, LLMs. They are cool in their own way, but they are not the entire AI field. In all the LLMs and AI agent hype a paper like Kolmogorov–Arnold Networks is a breath of fresh air. This paper seems quite groundbreaking and might completely change the field. Rarely do we see papers challenging the fundamentals of AI, but this one seems to do it.</p></details>
+
+<details><summary>2024-01-19 <a href="https://academic.jyunko.cn/2024/01/19/Empowering-Python-Developers-A-Comprehensive-Exploration-of-Remote-Package-Imports">Empowering Python Developers: A Comprehensive Exploration of Remote Package Imports</a></summary><p>In the expansive world of Python programming, the advent of remote package imports has emerged as a transformative and influential feature. This dynamic capability not only streamlines code management but also unlocks innovative avenues for collaboration and modular development. This blog post aims to delve deep into the significance of remote package imports, unravel the underlying mechanisms, and provide in-depth examples to illustrate their practical applications.</p></details>
+
+<details><summary>2024-01-05 <a href="https://academic.jyunko.cn/2024/01/05/Build-An-Audio-Programming-Language">Build An Audio Programming Language</a></summary><p>aria</p></details>
+
+<details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
+
+<details><summary>2023-06-12 <a href="https://academic.jyunko.cn/2023/06/12/Reading-Attention-Is-All-You-Need">Reading “Attention Is All You Need”</a></summary><p>The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder.</p></details>
+
+<details><summary>2023-05-03 <a href="https://academic.jyunko.cn/2023/05/03/HccetEMA">How chords colors enhance the Expressiveness of Music Analyzing</a></summary><p>Music is an art form that conveys emotions through sound, melody, harmony, and other elements.In music composition, chords are an important musical element and a tool for expressing emotions and intentions. This article will explore how to better use chords to enhance the expressiveness of music from both acoustic and audience perspectives.</p></details>
+<!-- blog ends -->
+
+_More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
+</td><td valign="top" width="33%">
+
+### 🎹Release Album/EP
+<!-- fm starts -->
+
+<!-- fm ends -->
+  
+_More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
+</td></tr></table>
+
+<details close>
+  <summary>show/close my status</summary>
+  <img src="./github-metrics.svg">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HsiangNianian&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820">
+  
+</details>
+
+<p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
+
 
 ------
-Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
-Last Edited on: 08/09/2021
+Credit: [HsiangNianian](https://github.com/HsiangNianian)  
+Last Edited on: 31/07/2024
