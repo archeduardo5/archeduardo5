@@ -112,6 +112,18 @@ Eduardo	Ibarra</a></h1>
 
 
 
+![ekt_acc](https://github.com/user-attachments/assets/ca0d2a91-a564-4ac9-8205-63dfad05bff6)
+
+
+
+
+![841e331e89fd3b53b6efece0e2306685ed71f7e5](https://github.com/user-attachments/assets/4886e2fb-65dd-4dd3-bc07-52f4796873f2)
+
+
+
+
+
+
 
 
 
