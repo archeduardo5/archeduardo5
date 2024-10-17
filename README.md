@@ -121,17 +121,6 @@ Last Edited on: 17/10/2024
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 - 🌱 I’m currently Working on Add-Ins and Task automations
 
 - 🤝 I’m available for freelancing.
@@ -215,18 +204,6 @@ Sunday                   2122 commits        ████░░░░░░░�
 
 
 
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-
-
-
-
-
-
-
   ## Introduction
 
 OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
@@ -280,4 +257,13 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 ## Sponsors
 <a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
 <img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
+</a>
+
+
+
+
+
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
