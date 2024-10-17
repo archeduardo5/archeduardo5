@@ -74,6 +74,24 @@ Eduardo	Ibarra</a></h1>
 
 ![NETWORKING_EXPERT_ACC](https://github.com/user-attachments/assets/7e1d7b8f-5025-4e8a-b153-99222ca5b02a)
 
+
+
+
+
+<h1>  Experience Document Control New Airport International A.I.F.A "Felipe Angeles :
+
+
+
+
+![AIFA_AV_EJETRONCAL](https://github.com/user-attachments/assets/121b6242-f65c-4f1d-b10a-bbba52dc3964)
+
+
+![aifa](https://github.com/user-attachments/assets/3266e055-8e8b-489e-9f1f-32144f71861c)
+
+
+
+
+
  
 -----
 
