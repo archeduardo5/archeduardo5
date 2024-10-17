@@ -73,21 +73,7 @@ Eduardo	Ibarra</a></h1>
 ![GD_BIM_MANAGEMENT](https://github.com/user-attachments/assets/ce8ffc0c-2101-4dcc-802a-abb1df2fe01f)
 
 
-
-
-
-
-
-
-
-
-
-
-![1718562649389](https://github.com/user-attachments/assets/d11100bd-2f2a-4583-9144-a38fc099dc2e)
-
-
-
-
+![diroots](https://github.com/user-attachments/assets/9f556612-542f-4c53-a7f2-39b952e87d96)
 
 
 
