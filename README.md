@@ -122,12 +122,18 @@ Eduardo	Ibarra</a></h1>
 
 
 
+<h1>  Fr-ee Fernando Romero Enterprise Experience BIM Modeler N.A.I.C.M New Airport International City of Mexico Texcoco :
+
+
+
+
+![S-Aeropuerto-8](https://github.com/user-attachments/assets/1f29bf74-7ed2-4b2c-a9b2-8c7a63406de3)
 
 
 
 
 
-
+![infrastructure-1st-story-panel1-960x532px-768x426](https://github.com/user-attachments/assets/631f97a6-564d-49da-ad99-c3b006b78856)
 
 
 
