@@ -53,7 +53,7 @@ Eduardo	Ibarra</a></h1>
 
 <div align='center'><h1> BIM DESIGN SYSTEM:</h1></div>
 <div align="center">
-<h1>  PERSPECTIVE Architectural  Visualization:
+<h1>  Perspective Architectural  Visualization:
 
 
 ![R](https://github.com/user-attachments/assets/5d206a0b-f748-4ada-a54b-264f32055078)
@@ -63,8 +63,18 @@ Eduardo	Ibarra</a></h1>
 
 
 
+![GD_BIM_MANAGEMENT](https://github.com/user-attachments/assets/ce8ffc0c-2101-4dcc-802a-abb1df2fe01f)
 
 
+
+
+<h1>  Networking ACC Construction Cloud Experts:
+
+
+
+![NETWORKING_EXPERT_ACC](https://github.com/user-attachments/assets/7e1d7b8f-5025-4e8a-b153-99222ca5b02a)
+
+ 
 -----
 
 
