@@ -2,6 +2,17 @@
 Eduardo	Ibarra</a></h1>
 <h3 align="center">A passionate Architect 
 
+
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+
+
+
+
+
+    
+
 ### 🏄follow me on
 
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/archeduardo5)
