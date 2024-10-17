@@ -7,14 +7,7 @@ Eduardo	Ibarra</a></h1>
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
-
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-
-    
+ 
 
 ### 🏄follow me on
 
@@ -219,6 +212,17 @@ Sunday                   2122 commits        ████░░░░░░░�
   > Human Vs. AI (1:0) :s
   
   ***
+
+
+
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+
+
+
 
 
 
