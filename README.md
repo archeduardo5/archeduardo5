@@ -5,36 +5,17 @@ arqueduardo5 / archeduardo5 es un repositorio especial ✨ ✨ porque su `LÉAME
 Puede hacer clic en el encaje Vista previa para ver sus cambios.
 --- >
 
-<h1 alineal="centro">Hola 👋, estoy <a href="https://100rabhcsmc.github.io/Me.io/" objetivo="en blanco">
-Lalo Ibarra< / a >< / h1 >
-<h3 alineal="centro">Un apasionado sistema de diseño BIM # 127470; y # 127475< / h3 >
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+LALO IBARRA</a></h1>
+<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
 
-<p alineal="izquierda"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&etiqueta = Perfil% 20 puntos de vista&color = 0e75b6&estilo = plano " alt="100rabhcsmc" / > < / p >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-<p alineal="izquierda"> <a href="https://twitter.com/100rabhcsmc" objetivo="en blanco"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&estilo = para la insignia " alt="100rabhcsmc" / >< / a > < / p >
+<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
-<a objetivo="_en blanco" alineal="centro">
-  <img alineal="Correcto" superior="500" alta="300" ancho="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-< / a >
-
-- 🔭 Actualmente estoy trabajo en <a href="https://phoenix.tech/griffyn/" objetivo="en blanco">Griffyn Robotech Private Limited < / a >
-
-- 🌱 Actualmente estoy trabajando en una aplicación más (React-Native)
-
-- 🤝 Estoy disponible para trabajo independiente y colaborativo
-
-- 📝 Escribo regularmente artículos sobre [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬  **Construction Cloud **
-
-- 📫  **hunterspaceblack@gmail.com**
-
-- 📄 Conozca mis experiencias <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" objetivo="en blanco">Reanudar < / a >
-<br / >
-<h3 alineal="centro" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" ancho="30" alta="30" estilo="margen derecho: 10px";>Conéctate conmigo 🤝 < / h3 >
-
-<p alineal="centro">
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 
 
