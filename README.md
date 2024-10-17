@@ -16,7 +16,7 @@ Eduardo	Ibarra</a></h1>
 ## Open For Oppurtunities :purple_heart: !
 
 -----
-Credits: [maneprajakta](https://github.com/maneprajakta)
+
 
 Last Edited on: 17/10/2024
 
