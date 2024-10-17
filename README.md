@@ -54,6 +54,13 @@ Eduardo	Ibarra</a></h1>
 <div align='center'><h1> BIM DESIGN SYSTEM:</h1></div>
 <div align="center">
 <h1>  Master Plan Departments Exterior - Architectural  Visualization:
+<h1>Integration API Clash Detection Inreration Standard AIA 
+<h1>Audit Model { API Revit - Python } Optimization Integration API diroots Family Manager AU2020 in the project
+<h1>Creation 1° BEP Family Architecture 
+ 
+
+
+
 
 
 ![R](https://github.com/user-attachments/assets/5d206a0b-f748-4ada-a54b-264f32055078)
