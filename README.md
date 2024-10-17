@@ -78,7 +78,7 @@ Eduardo	Ibarra</a></h1>
 
 
 
-<h1>  Networking ACC Construction Cloud Experts:
+<h1>  Grupo Salinas  Networking ACC Construction Cloud Experts:
 
 
 
@@ -88,7 +88,7 @@ Eduardo	Ibarra</a></h1>
 
 
 
-<h1>  Experience Document Control New Airport International A.I.F.A "Felipe Angeles :
+<h1>  SEDENA Experience Document Control New Airport International A.I.F.A "Felipe Angeles :
 
 
 
@@ -99,6 +99,14 @@ Eduardo	Ibarra</a></h1>
 ![aifa](https://github.com/user-attachments/assets/3266e055-8e8b-489e-9f1f-32144f71861c)
 
 
+
+<h1> Grupo Salinas Experience Clash Detections - Audit Model Review  Issues - Management Account Admin:
+
+
+
+
+
+![EKT ](https://github.com/user-attachments/assets/6169e8ca-98a1-4144-9a65-a824ad9cb4bf)
 
 
 
