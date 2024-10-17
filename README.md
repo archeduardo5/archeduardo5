@@ -2,6 +2,37 @@
 Eduardo	Ibarra</a></h1>
 <h3 align="center">A passionate Architect 
 
+### 🏄follow me on
+
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojuppala)
+[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11874811/manoj?tab=profile)
+[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/manoj_0863)
+
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/manojuppala/count.svg" />
+  </br>
+      <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+</p>
+
+[github]: https://github.com/manojuppala
+[twitter]: https://twitter.com/Manoj_0863
+[youtube]: https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ
+[linkedin]: https://www.linkedin.com/in/manoj-uppala-1a8b33169/
+[coursera]: https://www.coursera.org/learn/data-analysis-with-python
+[vscode]: https://code.visualstudio.com/
+[python]: https://www.python.org/doc/
+[java]: https://docs.oracle.com/en/java/
+[rlang]: https://github.com/manojuppala/R-programming
+[matlab]: https://www.mathworks.com/products/matlab.html
+[tableau]: https://www.tableau.com/
+[git]: https://git-scm.com/doc
+[github]: https://github.com/
+[c++]: https://devdocs.io/cpp/
+[c]: https://devdocs.io/c/
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
+[html]: https://devdocs.io/html/
+
 
 
 ## Github STATS :cyclone: !
