@@ -53,7 +53,7 @@ Eduardo	Ibarra</a></h1>
 
 <div align='center'><h1> BIM DESIGN SYSTEM:</h1></div>
 <div align="center">
-<h1>  Perspective Architectural  Visualization:
+<h1>  Master Plan Departments Exterior - Architectural  Visualization:
 
 
 ![R](https://github.com/user-attachments/assets/5d206a0b-f748-4ada-a54b-264f32055078)
