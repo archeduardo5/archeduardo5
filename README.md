@@ -51,11 +51,12 @@ Eduardo	Ibarra</a></h1>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=Digit_Recognition_Web_App&show_icons=true&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical)
 
-<div align='center'><h1> BIM DESIGN SYSTEM :pray:</h1></div>
+<div align='center'><h1> BIM DESIGN SYSTEM:</h1></div>
 <div align="center">
+<h1>  PERSPECTIVE Architectural  Visualization:
 
 
-
+![R](https://github.com/user-attachments/assets/5d206a0b-f748-4ada-a54b-264f32055078)
 
 
 
