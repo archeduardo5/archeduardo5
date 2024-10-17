@@ -7,7 +7,7 @@ Puede hacer clic en el encaje Vista previa para ver sus cambios.
 
 <h1 alineal="centro">Hola 👋, estoy <a href="https://100rabhcsmc.github.io/Me.io/" objetivo="en blanco">
 Lalo Ibarra< / a >< / h1 >
-<h3 alineal="centro">Un apasionado sistema de diseño BIM & # 127470; y # 127475< / h3 >
+<h3 alineal="centro">Un apasionado sistema de diseño BIM # 127470; y # 127475< / h3 >
 
 <p alineal="izquierda"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&etiqueta = Perfil% 20 puntos de vista&color = 0e75b6&estilo = plano " alt="100rabhcsmc" / > < / p >
 
@@ -21,15 +21,13 @@ Lalo Ibarra< / a >< / h1 >
 
 - 🌱 Actualmente estoy trabajando en una aplicación más (React-Native)
 
-- 🤝 Estoy disponible para trabajo independiente.
-
-- 🌱 Actualmente estoy apredizaje Swift & & SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" objetivo="en blanco">100DaysOfSwift < / a >
+- 🤝 Estoy disponible para trabajo independiente y colaborativo
 
 - 📝 Escribo regularmente artículos sobre [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
-- 💬 Pregúntame sobre **Reactjs y React-Native**
+- 💬  **Construction Cloud **
 
-- 📫 Como contacto **hunterspaceblack@gmail.com**
+- 📫  **hunterspaceblack@gmail.com**
 
 - 📄 Conozca mis experiencias <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" objetivo="en blanco">Reanudar < / a >
 <br / >
