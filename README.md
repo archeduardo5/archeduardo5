@@ -51,6 +51,18 @@ Eduardo	Ibarra</a></h1>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=Digit_Recognition_Web_App&show_icons=true&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical)
 
+<div align='center'><h1> BIM DESIGN SYSTEM :pray:</h1></div>
+<div align="center">
+
+
+
+
+
+
+
+
+
+
 
 -----
 
