@@ -132,7 +132,6 @@ Eduardo	Ibarra</a></h1>
 
 
 
-
 ![infrastructure-1st-story-panel1-960x532px-768x426](https://github.com/user-attachments/assets/631f97a6-564d-49da-ad99-c3b006b78856)
 
 `Teamwork AEC Winner 1 Autodesk University 2017 "Las Vegas" Image Courtesy of Foster+ Partners.
@@ -149,6 +148,10 @@ Visit to site N.A.I.C.M Texcoco
 
 ![1687985203282](https://github.com/user-attachments/assets/2b0898f7-4b8f-40d4-920c-780eea9813c6)
 
+
+Site Texcoco N.A.I.C.M
+
+![1686461308019](https://github.com/user-attachments/assets/078470d8-1680-4c8a-aa3f-5c381e76b037)
 
 
 
@@ -169,6 +172,12 @@ Visit to site N.A.I.C.M Texcoco
 
 
 
+
+<h1>  Experience BIM External Consultant Audit Model:
+
+
+
+![Uploading cinemex_gmp.PNG…]()
 
 
 -----
@@ -205,6 +214,17 @@ Last Edited on: 17/10/2024
 </div>
 
  ## 🛠️ Software & Tools
+
+
+
+
+
+
+![skills_digital](https://github.com/user-attachments/assets/63a0ae1f-b29a-4184-867f-a3685fa04040)
+
+
+
+ 
  
 <p>
   &emsp;
