@@ -177,7 +177,8 @@ Site Texcoco N.A.I.C.M
 
 
 
-![Uploading cinemex_gmp.PNG…]()
+![cinemex_gmp](https://github.com/user-attachments/assets/7a09ed96-0efb-4c0c-b0d7-829b88242fec)
+
 
 
 -----
