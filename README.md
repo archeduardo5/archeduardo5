@@ -22,7 +22,7 @@ Eduardo	Ibarra</a></h1>
       <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
 </p>
 
-[github]: https://github.com/manojuppala
+[github]: https://github.com/archeduardo5
 [twitter]: https://twitter.com/Manoj_0863
 [youtube]: https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ
 [linkedin]: https://www.linkedin.com/in/manoj-uppala-1a8b33169/
