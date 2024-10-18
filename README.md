@@ -684,4 +684,4 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 
 -----
-Credits: [novatorem](https://github.com/novatorem)
+Credits:  Eduardo Ibarra García 
