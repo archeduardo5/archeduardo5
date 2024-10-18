@@ -54,13 +54,8 @@ Eduardo	Ibarra</a></h1>
 <div align='center'><h1> BIM DESIGN SYSTEM:</h1></div>
 <div align="center">
 <h1>  Master Plan Departments Exterior - Architectural  Visualization:
-<h1>Integration API Clash Detection Inreration Standard AIA 
-<h1>Audit Model { API Revit - Python } Optimization Integration API diroots Family Manager AU2020 in the project
-<h1>Creation 1° BEP Family Architecture 
+
  
-
-
-
 
 
 ![R](https://github.com/user-attachments/assets/5d206a0b-f748-4ada-a54b-264f32055078)
@@ -131,10 +126,14 @@ Eduardo	Ibarra</a></h1>
 <h1>  Fr-ee Fernando Romero Enterprise Experience BIM Modeler N.A.I.C.M New Airport International City of Mexico Texcoco :
 
 
+![1686462153247](https://github.com/user-attachments/assets/571c6103-88e7-487a-9679-8fab26b64ecb)
 
 
 ![S-Aeropuerto-8](https://github.com/user-attachments/assets/1f29bf74-7ed2-4b2c-a9b2-8c7a63406de3)
 
+![1686633247560](https://github.com/user-attachments/assets/d54101ab-a3f1-46f3-81c6-241ff12d31a0)
+
+![1718350880810](https://github.com/user-attachments/assets/831945e3-5b24-4d23-9226-ca50137af01b)
 
 
 
@@ -212,7 +211,6 @@ Last Edited on: 17/10/2024
   <img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img  alt="sass" src ="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img  alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -220,7 +218,6 @@ Last Edited on: 17/10/2024
   <img  alt="styledComponent" src ="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img  alt="postgresql" src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-  <img  alt="azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
   <img  alt="jenkins" src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" /> 
  <br><br>
 </div>
