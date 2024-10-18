@@ -185,6 +185,11 @@ Site Texcoco N.A.I.C.M
 
 ![cinemex_gmp](https://github.com/user-attachments/assets/7a09ed96-0efb-4c0c-b0d7-829b88242fec)
 
+<h1> Hospital HGR García IMSS
+
+
+![1718489920573](https://github.com/user-attachments/assets/4a75a548-639e-45d5-bdd4-2f1e9b8620fb)
+
 
 
 -----
