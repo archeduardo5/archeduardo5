@@ -275,9 +275,7 @@ Last Edited on: 17/10/2024
 
 - 🌱 I’m currently Working on Add-Ins and Task automations
 
-- 🤝 I’m available for freelancing.
-
-- 🌱 I like to play chess with my eyes closed 
+- 🌱 Experience integrand ISO -19650
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
