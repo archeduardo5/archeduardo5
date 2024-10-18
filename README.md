@@ -1,4 +1,4 @@
-<h1 align="center">Hi Cood3rss!! 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi Coders!! 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Eduardo	Ibarra</a></h1>
 <h3 align="center">A passionate Architect 
 
