@@ -100,19 +100,6 @@ Eduardo	Ibarra</a></h1>
 ![aifa](https://github.com/user-attachments/assets/3266e055-8e8b-489e-9f1f-32144f71861c)
 
 
-
-<h1> Grupo Salinas Experience Clash Detections - Audit Model Review  Issues - Management Account Admin:
-
-
-
-
-
-![EKT ](https://github.com/user-attachments/assets/6169e8ca-98a1-4144-9a65-a824ad9cb4bf)
-
-
-
-
-
 ![ekt_acc](https://github.com/user-attachments/assets/ca0d2a91-a564-4ac9-8205-63dfad05bff6)
 
 
@@ -133,9 +120,6 @@ Eduardo	Ibarra</a></h1>
 
 
 ![1686462153247](https://github.com/user-attachments/assets/571c6103-88e7-487a-9679-8fab26b64ecb)
-
-
-![1686633247560](https://github.com/user-attachments/assets/d54101ab-a3f1-46f3-81c6-241ff12d31a0)
 
 ![1718350880810](https://github.com/user-attachments/assets/831945e3-5b24-4d23-9226-ca50137af01b)
 
