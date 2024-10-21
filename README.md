@@ -136,11 +136,6 @@ Eduardo	Ibarra</a></h1>
 
 `Teamwork AEC Winner 1 Autodesk University 2017 "Las Vegas" Image Courtesy of Foster+ Partners.
 
-Visit to site N.A.I.C.M Texcoco
-
-![Mexico-City-Airport-Slidrer-08](https://github.com/user-attachments/assets/3a7a734c-cb5d-4c96-998a-dd5a23e094c3)
-
-
 
 <h1>  Experience BIM Modeler IMSS Hospital General Regional "El Marqués" :
 
