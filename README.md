@@ -55,7 +55,7 @@ Eduardo	Ibarra</a></h1>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=Digit_Recognition_Web_App&show_icons=true&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical)
 
-<div align='center'><h1> BIM DESIGN SYSTEM:</h1></div>
+<div align='center'><h1> :</h1></div>
 <div align="center">
 <h1>  Master Plan Departments Exterior - Architectural  Visualization:
 
@@ -134,8 +134,6 @@ Eduardo	Ibarra</a></h1>
 
 ![1686462153247](https://github.com/user-attachments/assets/571c6103-88e7-487a-9679-8fab26b64ecb)
 
-
-![S-Aeropuerto-8](https://github.com/user-attachments/assets/1f29bf74-7ed2-4b2c-a9b2-8c7a63406de3)
 
 ![1686633247560](https://github.com/user-attachments/assets/d54101ab-a3f1-46f3-81c6-241ff12d31a0)
 
