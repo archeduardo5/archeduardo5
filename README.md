@@ -1,6 +1,6 @@
 <h1 align="center">Hi BIMERS!! 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Eduardo	Ibarra</a></h1>
-<h3 align="center">A passionate Architect 
+<h3 align="center"
 
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
