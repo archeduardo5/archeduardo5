@@ -128,9 +128,6 @@ Eduardo	Ibarra</a></h1>
 
 ![1686462153247](https://github.com/user-attachments/assets/571c6103-88e7-487a-9679-8fab26b64ecb)
 
-![1718350880810](https://github.com/user-attachments/assets/831945e3-5b24-4d23-9226-ca50137af01b)
-
-
 
 ![infrastructure-1st-story-panel1-960x532px-768x426](https://github.com/user-attachments/assets/631f97a6-564d-49da-ad99-c3b006b78856)
 
