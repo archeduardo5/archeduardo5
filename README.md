@@ -1,10 +1,14 @@
-<h1 align="center">Hi Coders!! 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi BIMERS!! 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Eduardo	Ibarra</a></h1>
 <h3 align="center">A passionate Architect 
 
-
+♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+🌱 Architectural Engineer with experience in construction documentation and project supervision. Budget review and planning. 
+-  I am committed to each project from its inception to its completion. 
+-  I also have experience in implementing digital BIM strategies according to ISO 19650 standards.
 
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
@@ -274,18 +278,6 @@ Last Edited on: 17/10/2024
 
 <br><br>
 
-
-
-
-- 🌱 I’m currently Working on Add-Ins and Task automations
-
-- 🌱 Experience integrand ISO -19650
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **hunterspaceblack@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
