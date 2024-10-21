@@ -100,10 +100,6 @@ Eduardo	Ibarra</a></h1>
 ![aifa](https://github.com/user-attachments/assets/3266e055-8e8b-489e-9f1f-32144f71861c)
 
 
-![ekt_acc](https://github.com/user-attachments/assets/ca0d2a91-a564-4ac9-8205-63dfad05bff6)
-
-
-
 
 ![841e331e89fd3b53b6efece0e2306685ed71f7e5](https://github.com/user-attachments/assets/4886e2fb-65dd-4dd3-bc07-52f4796873f2)
 
