@@ -151,20 +151,6 @@ Visit to site N.A.I.C.M Texcoco
 
 
 
-![1718332915829](https://github.com/user-attachments/assets/11980436-07f3-4353-8642-bf117230541d)
-
-
-
-![1687985203282](https://github.com/user-attachments/assets/2b0898f7-4b8f-40d4-920c-780eea9813c6)
-
-
-Site Texcoco N.A.I.C.M
-
-![1686461308019](https://github.com/user-attachments/assets/078470d8-1680-4c8a-aa3f-5c381e76b037)
-
-
-
-
 <h1>  Experience BIM Modeler IMSS Hospital General Regional "El Marqués" :
 
 
