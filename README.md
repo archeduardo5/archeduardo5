@@ -8,7 +8,7 @@ Eduardo	Ibarra</a></h1>
 
 🌱 Architectural Engineer with experience in construction documentation and project supervision. Budget review and planning. 
 -  I am committed to each project from its inception to its completion. 
--  I also have experience in implementing digital BIM strategies according to ISO 19650 standards.
+-  I also have experience in implementing digital BIM strategies according to ISO-19650 standards.
 
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
