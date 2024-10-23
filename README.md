@@ -78,7 +78,7 @@ Eduardo	Ibarra</a></h1>
 
 
 
-<h1>  Grupo Salinas  Networking ACC Construction Cloud Experts:
+<h1>  	Networking ACC Construction Cloud Experts:
 
 
 
@@ -86,6 +86,12 @@ Eduardo	Ibarra</a></h1>
 
 
 
+
+
+![Current_Licenses](https://github.com/user-attachments/assets/fb5f448a-27c2-48f8-8660-2e451ae4f328)
+
+
+![Licenses Usage](https://github.com/user-attachments/assets/fa6e2c45-2c82-419f-9b6a-b6cf47281b4f)
 
 
 <h1>  SEDENA Experience Document Control New Airport International A.I.F.A "Felipe Angeles :
@@ -109,10 +115,11 @@ Eduardo	Ibarra</a></h1>
   
   ***
   
-<img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+
 
   ***
-  
+  ![Licenses Usage](https://github.com/user-attachments/assets/81e00738-359b-4e94-b96f-55d1c1db2967)
+
   > Human Vs. AI (1:0) :s
   
   ***
