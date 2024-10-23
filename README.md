@@ -73,13 +73,13 @@ Eduardo	Ibarra</a></h1>
 ![GD_BIM_MANAGEMENT](https://github.com/user-attachments/assets/ce8ffc0c-2101-4dcc-802a-abb1df2fe01f)
 
 
-![diroots](https://github.com/user-attachments/assets/9f556612-542f-4c53-a7f2-39b952e87d96)
 
 
 
 
 <h1>  	Networking ACC Construction Cloud Experts:
 
+![Historical_Licenses_vs_Unique_Users](https://github.com/user-attachments/assets/499eaf36-780f-457b-bf51-bc1b273f89bd)
 
 
 ![NETWORKING_EXPERT_ACC](https://github.com/user-attachments/assets/7e1d7b8f-5025-4e8a-b153-99222ca5b02a)
