@@ -2,7 +2,7 @@
 Eduardo	Ibarra</a></h1>
 <h3 align="center"
 
-                                                        ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
+                                 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
 
        
@@ -16,6 +16,11 @@ Eduardo	Ibarra</a></h1>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
  
+
+
+
+![QbiMmCqkSI6N91VOwC6J2Q](https://github.com/user-attachments/assets/f6b24915-b962-49fd-83fe-36c99b060340)
+
 
 ### 🏄follow me on
 
