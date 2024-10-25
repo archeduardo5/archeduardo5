@@ -182,7 +182,7 @@ Eduardo	Ibarra</a></h1>
 -----
 
 
-Last Edited on: 17/10/2024
+Last Edited on: 24/10/2024
 
 ## 💻 Technologies 
 
