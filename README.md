@@ -2,7 +2,10 @@
 Eduardo	Ibarra</a></h1>
 <h3 align="center"
 
-♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
+                                                        ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
+
+
+       
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
