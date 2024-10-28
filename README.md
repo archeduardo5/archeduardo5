@@ -4,7 +4,7 @@ Eduardo	Ibarra</a></h1>
 
                                  ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
+
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
@@ -27,6 +27,14 @@ Eduardo	Ibarra</a></h1>
 
 
 ![Powerbi_Results](https://github.com/user-attachments/assets/9bc9c742-a55e-41c0-9fe2-c757933eae65)
+
+
+
+
+<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
+
+
+
 
 
 
