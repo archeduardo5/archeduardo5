@@ -2,7 +2,12 @@
 Eduardo	Ibarra</a></h1>
 <h3 align="center"
 
- <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+
+
+
+  
 
                                  ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
