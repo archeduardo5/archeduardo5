@@ -33,7 +33,7 @@ Eduardo	Ibarra</a></h1>
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
-
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
 
 
