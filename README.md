@@ -615,7 +615,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
  <hr />
  
-## Tim's Community Chess Tournament
+## Eduardo Community Chess Tournament
 
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white piece.
 
