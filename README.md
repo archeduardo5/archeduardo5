@@ -37,15 +37,6 @@ Eduardo	Ibarra</a></h1>
 ![Powerbi_Results](https://github.com/user-attachments/assets/9bc9c742-a55e-41c0-9fe2-c757933eae65)
 
 
-
-
-
-
-
-<p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/manojuppala/count.svg" />
-  </br>
       <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
 </p>
 
@@ -93,8 +84,6 @@ Eduardo	Ibarra</a></h1>
 
 
 
-
-
 <h1>  	Networking ACC Construction Cloud Experts:
 
 ![Historical_Licenses_vs_Unique_Users](https://github.com/user-attachments/assets/499eaf36-780f-457b-bf51-bc1b273f89bd)
@@ -129,7 +118,7 @@ Eduardo	Ibarra</a></h1>
   
   ***
   
-
+<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
   ***
   ![Licenses Usage](https://github.com/user-attachments/assets/81e00738-359b-4e94-b96f-55d1c1db2967)
