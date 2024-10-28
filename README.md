@@ -26,13 +26,13 @@ Eduardo	Ibarra</a></h1>
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/archeduardo5)
 
 
+![Powerbi_Results](https://github.com/user-attachments/assets/9bc9c742-a55e-41c0-9fe2-c757933eae65)
 
 
 
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
 
 
