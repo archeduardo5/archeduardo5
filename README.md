@@ -37,7 +37,9 @@ Eduardo	Ibarra</a></h1>
 ![Powerbi_Results](https://github.com/user-attachments/assets/9bc9c742-a55e-41c0-9fe2-c757933eae65)
 
 
-      <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+  <img src="https://profile-counter.glitch.me/manojuppala/count.svg" />
+  </br>
+<img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
 </p>
 
 [github]: https://github.com/archeduardo5
