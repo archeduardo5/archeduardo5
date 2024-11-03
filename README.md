@@ -2,7 +2,7 @@
 Eduardo	Ibarra</a></h1>
 <h3 align="center"
 
-https://camo.githubusercontent.com/1e00692c1ff2ad255bb9726fce006fd87931bb17e1e2daa6324304c85ed35874/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f424550622f636f756e742e737667
+
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
