@@ -655,23 +655,5 @@ Credits:  Eduardo Ibarra García
 
 
 
-# 0168000
-
-**Estilo sugerido:**
-
-- **Color de fondo**: Un degradado de negro a azul oscuro.
-- **Borde**: Azul (#0058ff).
-- **Sombra**: Sombra azul.
-- **Texto**: 
-  - Tamaño: 20px
-  - Color: Azul (#0058ff)
-  - Sombra de texto: Sombra azul.
-
-**Animaciones**: 
-- Pulsar
-- Brillar
-- Cambio de borde
-
-
 
 
