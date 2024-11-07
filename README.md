@@ -64,7 +64,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 
 🌱 Architectural Engineer with experience in construction documentation and project supervision. Budget review and planning. 
 -  I am committed to each project from its inception to its completion. 
@@ -368,11 +368,8 @@ Sunday                   2122 commits        ████░░░░░░░�
 
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
-© All Rights Reserved (EIG) Eduardo Ibarra García 
+                                                                                      © All Rights Reserved (EIG) Eduardo Ibarra García 
 ൫
-
-
-
 
 </p>
   </td>
@@ -381,14 +378,17 @@ Sunday                   2122 commits        ████░░░░░░░�
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 
------
-
-
 ![TREE_UNIVERSE](https://github.com/user-attachments/assets/6c7920a2-5ea9-42fc-9dc5-2ee9772ce6d8)
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+                                                                                            Credits:  Eduardo Ibarra García 
 
 
-Credits:  Eduardo Ibarra García 
+
+
+
+ ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
 
