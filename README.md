@@ -124,7 +124,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 ![ww](https://github.com/user-attachments/assets/86515d74-eca5-45a8-af6f-7209814a3244)
 -----
-Last Edited on: 24/10/2024
+Last Edited on: 07/10/2024
 ## 💻 Technologies 
 
 <div>
