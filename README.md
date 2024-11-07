@@ -67,12 +67,6 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/archeduardo5)
 ![W_OP_LINE](https://github.com/user-attachments/assets/4476ebf8-9582-4aa3-bd34-89fad4596680)
 
-
-
-
-
-
-
 ![Powerbi_Results](https://github.com/user-attachments/assets/9bc9c742-a55e-41c0-9fe2-c757933eae65)
 
  
@@ -214,8 +208,6 @@ Last Edited on: 24/10/2024
     &emsp;
     
 </p>
-
-
 <br><br>
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
@@ -360,11 +352,7 @@ Sunday                   2122 commits        ████░░░░░░░�
 Credits:  Eduardo Ibarra García 
  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
- <div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-    <div align=center>
+ 
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 
 
