@@ -24,7 +24,7 @@
 -  I also have experience in implementing digital BIM strategies according to ISO-19650 standards.
 
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+
  
 
 
