@@ -23,8 +23,6 @@
 
 OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
  
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
-
 ## Embed Real-time Widget in Repo's / Personal README.md within 30s!
 
 For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
@@ -60,16 +58,11 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
-
 ### 🏄follow me on
 
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/archeduardo5)
 
-
-
 ![Powerbi_Results](https://github.com/user-attachments/assets/9bc9c742-a55e-41c0-9fe2-c757933eae65)
-
-
  
   </br>
 <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
@@ -104,9 +97,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 <div align='center'><h1> :</h1></div>
 <div align="center">
-<h1>  Master Plan Departments 
 
-![deletebackups](https://github.com/user-attachments/assets/00c4b8d7-826a-4cf7-9970-148357e4731d)
 
 ![Current_Licenses](https://github.com/user-attachments/assets/fb5f448a-27c2-48f8-8660-2e451ae4f328)
 
@@ -214,7 +205,6 @@ Last Edited on: 24/10/2024
 
 
 <br><br>
-
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
