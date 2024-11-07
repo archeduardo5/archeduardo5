@@ -75,21 +75,7 @@
 <div align="center">
 <h1>  Master Plan Departments 
 
-
-
 ![deletebackups](https://github.com/user-attachments/assets/00c4b8d7-826a-4cf7-9970-148357e4731d)
-
-
-
-![GD_BIM_MANAGEMENT](https://github.com/user-attachments/assets/ce8ffc0c-2101-4dcc-802a-abb1df2fe01f)
-
-
-
-![NETWORKING_EXPERT_ACC](https://github.com/user-attachments/assets/7e1d7b8f-5025-4e8a-b153-99222ca5b02a)
-
-
-
-
 
 ![Current_Licenses](https://github.com/user-attachments/assets/fb5f448a-27c2-48f8-8660-2e451ae4f328)
 
