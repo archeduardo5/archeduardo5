@@ -8,7 +8,7 @@
   
 </p>
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/I´m Eduardo Ibarra>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 🌱 Architectural Engineer with experience in construction documentation and project supervision. Budget review and planning. 
 -  I am committed to each project from its inception to its completion. 
 -  I also have experience in implementing digital BIM strategies according to ISO-19650 standards.
@@ -65,8 +65,16 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 ### 🏄follow me on
 
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/archeduardo5)
+![W_OP_LINE](https://github.com/user-attachments/assets/4476ebf8-9582-4aa3-bd34-89fad4596680)
+
+
+
+
+
+
 
 ![Powerbi_Results](https://github.com/user-attachments/assets/9bc9c742-a55e-41c0-9fe2-c757933eae65)
+
  
   </br>
 <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
