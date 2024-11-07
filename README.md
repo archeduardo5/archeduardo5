@@ -373,10 +373,6 @@ Sunday                   2122 commits        ████░░░░░░░�
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 
-![TREE_UNIVERSE](https://github.com/user-attachments/assets/6c7920a2-5ea9-42fc-9dc5-2ee9772ce6d8)
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
                                                                                             Credits:  Eduardo Ibarra García 
 
 
