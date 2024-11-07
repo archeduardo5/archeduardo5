@@ -196,10 +196,6 @@ Last Edited on: 24/10/2024
     </tr>
 </table>
 <br>
-
-
-
- 
  
 <p>
   &emsp;
@@ -348,8 +344,7 @@ Sunday                   2122 commits        ████░░░░░░░�
 ![OIP (1)](https://github.com/user-attachments/assets/d6f09e96-a872-4d99-b33a-a3064cbc6449)
 
  <hr />
- 
-## Eduardo Community Chess Tournament
+                                                                                         ## Eduardo Community Chess Tournament
 
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white piece.
 
