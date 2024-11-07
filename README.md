@@ -58,11 +58,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
 
-
-
-
-
-                                 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
+♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
 
 ### 🏄follow me on
@@ -96,8 +92,6 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 [c]: https://devdocs.io/c/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
 [html]: https://devdocs.io/html/
-
-
 
 ## Github STATS :cyclone: !
 
@@ -363,6 +357,13 @@ Sunday                   2122 commits        ████░░░░░░░�
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 Credits:  Eduardo Ibarra García 
  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+ <div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 
 
 
