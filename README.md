@@ -1,8 +1,6 @@
-<h1 align="center">Hi BIMERS!! 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Eduardo	Ibarra</a></h1>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
 <h3 align="center"
-
-
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
