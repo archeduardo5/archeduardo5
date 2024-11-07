@@ -352,6 +352,10 @@ Sunday                   2122 commits        ████░░░░░░░�
 Credits:  Eduardo Ibarra García 
  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+![06d3ef43-c0d1-49d2-9524-e5710be422cc](https://github.com/user-attachments/assets/53496c90-9ed7-4e1b-9e67-ba0a55b412fc)
+
+ 
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
