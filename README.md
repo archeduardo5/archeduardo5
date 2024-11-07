@@ -25,12 +25,6 @@
 
 
 
- 
-
-
-
-![QbiMmCqkSI6N91VOwC6J2Q](https://github.com/user-attachments/assets/f6b24915-b962-49fd-83fe-36c99b060340)
-
 
 ### 🏄follow me on
 
