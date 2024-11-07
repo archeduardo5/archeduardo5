@@ -80,22 +80,6 @@
 
 ![Licenses Usage](https://github.com/user-attachments/assets/fa6e2c45-2c82-419f-9b6a-b6cf47281b4f)
 
-
-<h1>  SEDENA Experience Document Control New Airport International A.I.F.A "Felipe Angeles :
-
-![1688050058281](https://github.com/user-attachments/assets/110da116-4853-4bf1-861e-d02883492e53)
-
-
-
-![AIFA_AV_EJETRONCAL](https://github.com/user-attachments/assets/121b6242-f65c-4f1d-b10a-bbba52dc3964)
-
-
-![aifa](https://github.com/user-attachments/assets/3266e055-8e8b-489e-9f1f-32144f71861c)
-
-
-***
-  
-  
   ***
   
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
