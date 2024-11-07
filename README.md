@@ -99,14 +99,8 @@
 ![1718420648474](https://github.com/user-attachments/assets/37713941-0ba6-4505-98d1-35e3bff4e456)
 
 ![ww](https://github.com/user-attachments/assets/86515d74-eca5-45a8-af6f-7209814a3244)
-
-
-
 -----
-
-
 Last Edited on: 24/10/2024
-
 ## 💻 Technologies 
 
 <div>
