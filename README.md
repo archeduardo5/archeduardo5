@@ -81,9 +81,9 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 </p>
 
 [github]: https://github.com/archeduardo5
-[twitter]: https://twitter.com/Manoj_0863
+[twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ
-[linkedin]: https://www.linkedin.com/in/manoj-uppala-1a8b33169/
+[linkedin]: https://www.linkedin.com/
 [coursera]: https://www.coursera.org/learn/data-analysis-with-python
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/doc/
@@ -369,5 +369,7 @@ Credits:  Eduardo Ibarra García
 
 
 
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
