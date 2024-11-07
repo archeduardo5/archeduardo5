@@ -85,12 +85,6 @@
 
 
 
-
-<h1>  	Networking ACC Construction Cloud Experts:
-
-![Historical_Licenses_vs_Unique_Users](https://github.com/user-attachments/assets/499eaf36-780f-457b-bf51-bc1b273f89bd)
-
-
 ![NETWORKING_EXPERT_ACC](https://github.com/user-attachments/assets/7e1d7b8f-5025-4e8a-b153-99222ca5b02a)
 
 
@@ -128,56 +122,9 @@
   > Human Vs. AI (1:0) :s
   
   ***
-
-
-
-
-
-
-
-<h1>  Fr-ee Fernando Romero Enterprise Experience BIM Modeler N.A.I.C.M New Airport International City of Mexico Texcoco :
-
-
-![1686462153247](https://github.com/user-attachments/assets/571c6103-88e7-487a-9679-8fab26b64ecb)
-
-
-![infrastructure-1st-story-panel1-960x532px-768x426](https://github.com/user-attachments/assets/631f97a6-564d-49da-ad99-c3b006b78856)
-
-`Teamwork AEC Winner 1 Autodesk University 2017 "Las Vegas" Image Courtesy of Foster+ Partners.
-
-
-<h1>  Experience BIM Modeler IMSS Hospital General Regional "El Marqués" :
-
-
-![HGRM](https://github.com/user-attachments/assets/7e1e8cd5-e78d-4bb7-9649-183cfbbea57b)
-
-<h1>  Experience BIM Modeler We Work Midtown :
-
-
-![OIP](https://github.com/user-attachments/assets/9b6f90be-180e-4d48-a50e-576d66f502ff)
-
-
-
 ![1718420648474](https://github.com/user-attachments/assets/37713941-0ba6-4505-98d1-35e3bff4e456)
 
-
-
-
 ![ww](https://github.com/user-attachments/assets/86515d74-eca5-45a8-af6f-7209814a3244)
-
-
-
-
-<h1>  Experience BIM External Consultant Audit Model:
-
-
-
-![cinemex_gmp](https://github.com/user-attachments/assets/7a09ed96-0efb-4c0c-b0d7-829b88242fec)
-
-<h1> Hospital HGR García IMSS
-
-
-![1718489920573](https://github.com/user-attachments/assets/4a75a548-639e-45d5-bdd4-2f1e9b8620fb)
 
 
 
