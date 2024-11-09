@@ -336,7 +336,19 @@ Credits:  Eduardo Ibarra García
 
 ![06d3ef43-c0d1-49d2-9524-e5710be422cc](https://github.com/user-attachments/assets/53496c90-9ed7-4e1b-9e67-ba0a55b412fc)
 
- 
+ ## Juegos
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" /> | `https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white`
+<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /> | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white`
+<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white`
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> | `https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white`
+<img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> | `https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white`
+<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /> | `https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white`
+<img src="https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white" /> | `https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white`
+<img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
