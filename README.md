@@ -336,7 +336,7 @@ Credits:  Eduardo Ibarra García
 
 ![06d3ef43-c0d1-49d2-9524-e5710be422cc](https://github.com/user-attachments/assets/53496c90-9ed7-4e1b-9e67-ba0a55b412fc)
 
- ## Juegos
+ ## Video Games
 
 Badge | URL
 ------------ | -------------
