@@ -354,6 +354,23 @@ Badge | URL
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`
 
 
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/ddf75430-1caf-4951-8602-501b10b61a8c
+
+
+
+
+
+
+
+
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
