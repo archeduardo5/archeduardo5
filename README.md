@@ -129,7 +129,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 ![ww](https://github.com/user-attachments/assets/86515d74-eca5-45a8-af6f-7209814a3244)
 -----
-Last Edited on: 07/10/2024
+Last Edited on: 12/11/2024
 ## 💻 Technologies 
 
 <div>
@@ -357,14 +357,7 @@ Badge | URL
 
 
 
-
-
-
-
 https://github.com/user-attachments/assets/ddf75430-1caf-4951-8602-501b10b61a8c
-
-
-
 
 
 
