@@ -11,13 +11,23 @@
 https://github.com/user-attachments/assets/a16629db-c748-47b7-ba91-026a667157e2
 
 
+<p align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <a href="https://github.com/archeduardo5" target="_blank">𝚌𝚘𝚍𝚎𝚛𝚜 / I'm Eduardo Ibarra</a>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 </p>
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/I´m Eduardo Ibarra>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-🌱 Architectural Engineer with experience in construction documentation and project supervision. Budget review and planning. 
--  I am committed to each project from its inception to its completion. 
--  I also have experience in implementing digital BIM strategies according to ISO-19650 standards.
-<h3 align="center"
+<p align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <a href="https://github.com/archeduardo5" target="_blank">𝚌𝚘𝚍𝚎𝚛𝚜 / I'm Eduardo Ibarra</a>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+</p>
+
+<p align="center">
+  🌱 Architectural Engineer | 📐 Construction Documentation & Project Supervision | 💡 Digital Transformation with Custom Solutions | 📊 Budget Review & Planning
+</p>
+
+- 💼 I am committed to each project from its inception to its completion.
+- 📏 I have experience in implementing digital BIM strategies according to ISO-19650 standards.
+
+<h3 align="center">🚀 Let's build the future together! 🌍</h3>
+
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
