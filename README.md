@@ -1,40 +1,32 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <a href="https://github.com/archeduardo5" target="_blank">𝚌𝚘𝚍𝚎𝚛𝚜 / I'm Eduardo Ibarra</a>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 </p>
-
 <p align="center">
-  🌱 Architectural Engineer | 📐 Construction Documentation & Project Supervision | 💡 Digital Transformation with Custom Solutions | 📊 Budget Review & Planning
-</p>
+Hello there, fellow coders!
+I'm Eduardo Ibarra, an enthusiastic Architectural Engineer with a passion for innovative, sustainable, and efficient design. My journey combines Construction Documentation, Project Supervision, and Digital Transformation, driving exceptional results on every project I take on. Here’s how I make a difference:
 
-**Hello there, fellow coders!**
-I'm Eduardo Ibarra, an enthusiastic **Architectural Engineer** with a passion for creating innovative, efficient, and sustainable designs. With extensive experience in **Construction Documentation** and **Project Supervision**, I help bring ideas to life while ensuring projects are delivered on time and within budget.
+🌱 Architectural Engineer
+I specialize in crafting functional, aesthetically pleasing spaces that meet both client needs and industry standards. My approach blends creativity with technical expertise to create inspiring and functional designs.
 
-🌱 **Architectural Engineer**: I specialize in designing functional and aesthetically pleasing spaces that meet both client needs and industry standards. My approach combines creativity with technical expertise to create spaces that inspire and serve.
+📐 Construction Documentation & Project Supervision
+From creating detailed construction plans to overseeing the on-site execution, I ensure that every project progresses smoothly, meets regulatory standards, and stays true to specifications. Precision and quality are at the core of everything I do.
 
-📐 **Construction Documentation & Project Supervision**: From drafting detailed construction plans to supervising on-site work, I ensure that every project progresses smoothly, adhering to all specifications and regulatory requirements. My focus is always on quality and precision.
+💡 Digital Transformation & Custom Solutions
+As a passionate advocate for technology, I leverage BIM (Building Information Modeling) and other cutting-edge tools to streamline workflows, enhance collaboration, and deliver custom digital solutions that optimize efficiency and project outcomes.
 
-💡 **Digital Transformation & Custom Solutions**: I'm deeply committed to leveraging cutting-edge technologies to streamline workflows, optimize efficiency, and deliver custom digital solutions. I have hands-on experience implementing **BIM (Building Information Modeling)** strategies and other digital tools to enhance collaboration and improve project outcomes.
+📊 Budget Planning & Review
+I excel in managing budgets, analyzing costs, and ensuring financial efficiency without compromising on quality. My strategic approach helps projects stay on budget while maintaining high standards.
 
-📊 **Budget Planning & Review**: I excel at managing project budgets, reviewing costs, and ensuring financial efficiency. Through careful planning and cost analysis, I help projects stay within financial constraints without compromising on quality.
+💼 End-to-End Project Commitment
+From concept to completion, I am fully dedicated to every project, ensuring it runs seamlessly, on time, and within budget.
 
+📏 BIM Standards Expertise
+With hands-on experience in BIM strategies, I adhere to these critical international standards:
 
-- 💼 I am committed to each project from its inception to its completion.
-- 
-- 📏 I have experience in implementing digital BIM strategies in compliance with the following BIM standards:
-
-ISO 19650: 🌍 International standard for managing information throughout the entire lifecycle of BIM projects.
-
-AIA E202: 🏛️ Guidelines from the American Institute of Architects for integrating BIM into contracts and architectural projects.
-
-RIBA Plan of Work: 🏗️ Framework by the Royal Institute of British Architects (RIBA) to organize and manage projects using BIM in the UK.
-
-Let’s connect and collaborate on building something amazing together!
-
-
-
-
-
-<h3 align="center">🚀 Let's build the future together! 🌍</h3>
-
+ISO 19650: Managing information throughout a project's lifecycle.
+AIA E202: Integrating BIM into architectural contracts.
+RIBA Plan of Work: Managing projects using BIM, particularly in the UK.
+Let’s connect and collaborate to build something exceptional together! 🚀
+Let's build the future! 🌍
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
