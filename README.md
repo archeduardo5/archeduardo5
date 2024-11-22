@@ -27,12 +27,6 @@ AIA E202: Integrating BIM into architectural contracts.
 RIBA Plan of Work: Managing projects using BIM, particularly in the UK.
 
 
-Let’s connect and collaborate to build something exceptional together! 🚀
-
-
-
-Let's build the future! 🌍
-
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
@@ -41,9 +35,13 @@ Let's build the future! 🌍
   ## **Thank You for Visiting My Profile** Last Edited on: 22/11/2024
 
 
+![giphy](https://github.com/user-attachments/assets/499b684c-0e9d-4d83-9680-2de96b7ac2c0)
 
-  
-![image](https://github.com/user-attachments/assets/80223886-59a2-4b44-b2af-f02b9f850bda)
+Let’s connect and collaborate to build something exceptional together! 🚀
+
+
+
+Let's build the future! 🌍
 
 
 
