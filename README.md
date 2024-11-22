@@ -74,6 +74,9 @@ https://github.com/user-attachments/assets/a16629db-c748-47b7-ba91-026a667157e2
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
+
+![image](https://github.com/user-attachments/assets/8999937f-b1f8-412f-8e94-22bedcda5b88)
+
   ## Introduction
 
 OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
