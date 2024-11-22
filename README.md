@@ -10,6 +10,7 @@
 
 https://github.com/user-attachments/assets/a16629db-c748-47b7-ba91-026a667157e2
 
+![image](https://github.com/user-attachments/assets/4e564c9e-d585-4bba-a1b8-13ff4bec7417)
 
 
 ![image](https://github.com/user-attachments/assets/8bf01cb7-581a-45ca-9994-a5a83e39f708)
@@ -92,8 +93,6 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 ![image](https://github.com/user-attachments/assets/196e822d-8ea0-4c66-bfcf-42080d12307a)
 
 
-
-
 ![Powerbi_Results](https://github.com/user-attachments/assets/9bc9c742-a55e-41c0-9fe2-c757933eae65)
 
  
@@ -151,8 +150,6 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 ![ww](https://github.com/user-attachments/assets/86515d74-eca5-45a8-af6f-7209814a3244)
 -----
-
-
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
@@ -290,7 +287,8 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 ![OIP (1)](https://github.com/user-attachments/assets/d6f09e96-a872-4d99-b33a-a3064cbc6449)
 
  <hr />
-                                                                                         ## Eduardo Community Chess Tournament
+
+## Eduardo Community Chess Tournament
 
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white piece.
 
