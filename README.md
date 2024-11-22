@@ -5,6 +5,18 @@
   🌱 Architectural Engineer | 📐 Construction Documentation & Project Supervision | 💡 Digital Transformation with Custom Solutions | 📊 Budget Review & Planning
 </p>
 
+**Hello there, fellow coders!**
+I'm Eduardo Ibarra, an enthusiastic **Architectural Engineer** with a passion for creating innovative, efficient, and sustainable designs. With extensive experience in **Construction Documentation** and **Project Supervision**, I help bring ideas to life while ensuring projects are delivered on time and within budget.
+
+🌱 **Architectural Engineer**: I specialize in designing functional and aesthetically pleasing spaces that meet both client needs and industry standards. My approach combines creativity with technical expertise to create spaces that inspire and serve.
+
+📐 **Construction Documentation & Project Supervision**: From drafting detailed construction plans to supervising on-site work, I ensure that every project progresses smoothly, adhering to all specifications and regulatory requirements. My focus is always on quality and precision.
+
+💡 **Digital Transformation & Custom Solutions**: I'm deeply committed to leveraging cutting-edge technologies to streamline workflows, optimize efficiency, and deliver custom digital solutions. I have hands-on experience implementing **BIM (Building Information Modeling)** strategies and other digital tools to enhance collaboration and improve project outcomes.
+
+📊 **Budget Planning & Review**: I excel at managing project budgets, reviewing costs, and ensuring financial efficiency. Through careful planning and cost analysis, I help projects stay within financial constraints without compromising on quality.
+
+
 - 💼 I am committed to each project from its inception to its completion.
 - 
 - 📏 I have experience in implementing digital BIM strategies in compliance with the following BIM standards:
@@ -14,6 +26,12 @@ ISO 19650: 🌍 International standard for managing information throughout the e
 AIA E202: 🏛️ Guidelines from the American Institute of Architects for integrating BIM into contracts and architectural projects.
 
 RIBA Plan of Work: 🏗️ Framework by the Royal Institute of British Architects (RIBA) to organize and manage projects using BIM in the UK.
+
+Let’s connect and collaborate on building something amazing together!
+
+
+
+
 
 <h3 align="center">🚀 Let's build the future together! 🌍</h3>
 
