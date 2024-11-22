@@ -25,7 +25,12 @@ With hands-on experience in BIM strategies, I adhere to these critical internati
 ISO 19650: Managing information throughout a project's lifecycle.
 AIA E202: Integrating BIM into architectural contracts.
 RIBA Plan of Work: Managing projects using BIM, particularly in the UK.
+
+
 Let’s connect and collaborate to build something exceptional together! 🚀
+
+
+
 Let's build the future! 🌍
 
  ### Profile Views :<br>
