@@ -85,8 +85,8 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
 
+![image](https://github.com/user-attachments/assets/196e822d-8ea0-4c66-bfcf-42080d12307a)
 
-### 🏄follow me on
 
 
 
@@ -147,17 +147,6 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 ![ww](https://github.com/user-attachments/assets/86515d74-eca5-45a8-af6f-7209814a3244)
 -----
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -344,6 +333,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`
 
 
+![image](https://github.com/user-attachments/assets/e0a70e5d-ce50-4d3e-84f3-0c60644cf386)
 
 
 
