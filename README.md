@@ -40,7 +40,11 @@ Let's build the future! 🌍
 
   ## **Thank You for Visiting My Profile** Last Edited on: 22/11/2024
 
-**I appreciate you taking the time to check out my profile. Feel free to explore my projects and connect with me!**
+
+
+  
+![image](https://github.com/user-attachments/assets/80223886-59a2-4b44-b2af-f02b9f850bda)
+
 
 
 
