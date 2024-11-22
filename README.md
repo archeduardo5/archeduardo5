@@ -23,7 +23,9 @@ From concept to completion, I am fully dedicated to every project, ensuring it r
 With hands-on experience in BIM strategies, I adhere to these critical international standards:
 
 ISO 19650: Managing information throughout a project's lifecycle.
+
 AIA E202: Integrating BIM into architectural contracts.
+
 RIBA Plan of Work: Managing projects using BIM, particularly in the UK.
 
 
@@ -42,11 +44,6 @@ Let’s connect and collaborate to build something exceptional together! 🚀
 
 
 Let's build the future! 🌍
-
-
-
-
-
 
 
 ![133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6](https://github.com/user-attachments/assets/d690d399-794e-4eea-adf0-702d9e8b538d)
