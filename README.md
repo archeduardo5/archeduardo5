@@ -1,9 +1,5 @@
 ![133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6](https://github.com/user-attachments/assets/d690d399-794e-4eea-adf0-702d9e8b538d)
 <p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
-  <br><br>
-  <samp>
-<p align="center">
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <p align="center">
@@ -28,7 +24,15 @@
   ## **Thank You for Visiting My Profile** Last Edited on: 22/11/2024
 
 **I appreciate you taking the time to check out my profile. Feel free to explore my projects and connect with me!**
-  
+
+
+
+ 
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+  <br><br>
+  <samp>
+<p align="center">
+
 
 https://github.com/user-attachments/assets/a16629db-c748-47b7-ba91-026a667157e2
 
