@@ -11,6 +11,10 @@
 https://github.com/user-attachments/assets/a16629db-c748-47b7-ba91-026a667157e2
 
 
+
+![image](https://github.com/user-attachments/assets/8bf01cb7-581a-45ca-9994-a5a83e39f708)
+
+
 <p align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <a href="https://github.com/archeduardo5" target="_blank">𝚌𝚘𝚍𝚎𝚛𝚜 / I'm Eduardo Ibarra</a>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 </p>
