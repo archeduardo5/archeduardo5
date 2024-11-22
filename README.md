@@ -1,8 +1,3 @@
-![133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6](https://github.com/user-attachments/assets/d690d399-794e-4eea-adf0-702d9e8b538d)
-<p align="center">
-
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-<p align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <a href="https://github.com/archeduardo5" target="_blank">𝚌𝚘𝚍𝚎𝚛𝚜 / I'm Eduardo Ibarra</a>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 </p>
 
@@ -11,7 +6,14 @@
 </p>
 
 - 💼 I am committed to each project from its inception to its completion.
-- 📏 I have experience in implementing digital BIM strategies according to ISO-19650 standards.
+- 
+- 📏 I have experience in implementing digital BIM strategies in compliance with the following BIM standards:
+
+ISO 19650: 🌍 International standard for managing information throughout the entire lifecycle of BIM projects.
+
+AIA E202: 🏛️ Guidelines from the American Institute of Architects for integrating BIM into contracts and architectural projects.
+
+RIBA Plan of Work: 🏗️ Framework by the Royal Institute of British Architects (RIBA) to organize and manage projects using BIM in the UK.
 
 <h3 align="center">🚀 Let's build the future together! 🌍</h3>
 
@@ -27,7 +29,15 @@
 
 
 
- 
+
+
+
+![133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6](https://github.com/user-attachments/assets/d690d399-794e-4eea-adf0-702d9e8b538d)
+<p align="center">
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<p align="center">
+
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
