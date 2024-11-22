@@ -34,6 +34,12 @@ https://github.com/user-attachments/assets/a16629db-c748-47b7-ba91-026a667157e2
 
 **I appreciate you taking the time to check out my profile. Feel free to explore my projects and connect with me!**
 
+
+
+
+![image](https://github.com/user-attachments/assets/aab31fc8-04a0-45f9-b213-d904e9b5ff21)
+
+
   <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
