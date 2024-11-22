@@ -6,16 +6,6 @@
 <p align="center">
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
-
-https://github.com/user-attachments/assets/a16629db-c748-47b7-ba91-026a667157e2
-
-![image](https://github.com/user-attachments/assets/4e564c9e-d585-4bba-a1b8-13ff4bec7417)
-
-
-![image](https://github.com/user-attachments/assets/8bf01cb7-581a-45ca-9994-a5a83e39f708)
-
-
 <p align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <a href="https://github.com/archeduardo5" target="_blank">𝚌𝚘𝚍𝚎𝚛𝚜 / I'm Eduardo Ibarra</a>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 </p>
@@ -35,11 +25,17 @@ https://github.com/user-attachments/assets/a16629db-c748-47b7-ba91-026a667157e2
 
   ![PROFILE_ACCOUNT_](https://github.com/user-attachments/assets/6fc8cf5b-8989-480e-a6ad-df2affc6d40c)
 
-  ## **Thank You for Visiting My Profile** Last Edited on: 17/11/2024
+  ## **Thank You for Visiting My Profile** Last Edited on: 22/11/2024
 
 **I appreciate you taking the time to check out my profile. Feel free to explore my projects and connect with me!**
+  
+
+https://github.com/user-attachments/assets/a16629db-c748-47b7-ba91-026a667157e2
+
+![image](https://github.com/user-attachments/assets/4e564c9e-d585-4bba-a1b8-13ff4bec7417)
 
 
+![image](https://github.com/user-attachments/assets/8bf01cb7-581a-45ca-9994-a5a83e39f708)
 
 
 ![image](https://github.com/user-attachments/assets/aab31fc8-04a0-45f9-b213-d904e9b5ff21)
