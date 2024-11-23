@@ -120,6 +120,9 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 ![image](https://github.com/user-attachments/assets/196e822d-8ea0-4c66-bfcf-42080d12307a)
 
 
+
+![Sales_Overview](https://github.com/user-attachments/assets/21e9f376-fabd-408b-90bd-077a25bc5694)
+
 ![Powerbi_Results](https://github.com/user-attachments/assets/9bc9c742-a55e-41c0-9fe2-c757933eae65)
 
  
