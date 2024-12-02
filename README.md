@@ -28,6 +28,7 @@ AIA E202: Integrating BIM into architectural contracts.
 
 RIBA Plan of Work: Managing projects using BIM, particularly in the UK.
 
+Buildings S-Mart: Implementing innovative BIM solutions for retail and commercial spaces.
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
