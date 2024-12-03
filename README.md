@@ -278,6 +278,11 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 </td><td valign="top" width="33%">
 <p align="right">
 
+![image](https://github.com/user-attachments/assets/0d0db6b9-4e54-456b-8880-72f4962d3739)
+
+
+
+[🔗 Access Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNTA3MTc4MzQtYjRlYy00ZTQ2LWExMTYtYzZhYjFmZjM2NDBkIiwidCI6ImFlYzBjYTkzLTc5MGEtNDU0MC05NjY3LWI2ODdmNjViNGNkZCIsImMiOjl9)
 
 
 <h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
