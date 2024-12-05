@@ -37,7 +37,7 @@ Buildings S-Mart: Implementing innovative BIM solutions for retail and commercia
 
   Let's build the future! 🌍
 
-  ## **Thank You for Visiting My Profile** Last Edited on: 03/12/2024 
+  ## **Thank You for Visiting My Profile** Last Edited on: 05/12/2024 
 
 
 ![giphy](https://github.com/user-attachments/assets/499b684c-0e9d-4d83-9680-2de96b7ac2c0)
@@ -56,6 +56,12 @@ Let’s connect and collaborate to build something exceptional together! 🚀
   <br><br>
   <samp>
 <p align="center">
+
+
+
+
+https://github.com/user-attachments/assets/6b7c2e6e-b6e9-48df-96e0-62d745c7fada
+
 
 
 https://github.com/user-attachments/assets/a16629db-c748-47b7-ba91-026a667157e2
