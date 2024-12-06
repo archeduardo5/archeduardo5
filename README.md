@@ -115,6 +115,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
+![W_OP_LINE](https://github.com/user-attachments/assets/6d51e374-2ae6-4e04-87d7-f5dff46f3a93)
 
 | Repository Annual Ranking | Find More |
 | ----------- | ----------- |
