@@ -326,16 +326,8 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <p align="center">
 
  
-</p>
-  </td>
-  </table>
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-
- 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <p align="center">
-
- 
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
