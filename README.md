@@ -1,34 +1,5 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <a href="https://github.com/archeduardo5" target="_blank">𝚌𝚘𝚍𝚎𝚛𝚜 / I'm Eduardo Ibarra</a>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-</p>
-<p align="center">
-Hello there, fellow coders!
-I'm Eduardo Ibarra, an enthusiastic Architectural Engineer with a passion for innovative, sustainable, and efficient design. My journey combines Construction Documentation, Project Supervision, and Digital Transformation, driving exceptional results on every project I take on. Here’s how I make a difference:
 
-🌱 Architectural Engineer
-I specialize in crafting functional, aesthetically pleasing spaces that meet both client needs and industry standards. My approach blends creativity with technical expertise to create inspiring and functional designs.
-
-📐 Construction Documentation & Project Supervision
-From creating detailed construction plans to overseeing the on-site execution, I ensure that every project progresses smoothly, meets regulatory standards, and stays true to specifications. Precision and quality are at the core of everything I do.
-
-💡 Digital Transformation & Custom Solutions
-As a passionate advocate for technology, I leverage BIM (Building Information Modeling) and other cutting-edge tools to streamline workflows, enhance collaboration, and deliver custom digital solutions that optimize efficiency and project outcomes.
-
-📊 Budget Planning & Review
-I excel in managing budgets, analyzing costs, and ensuring financial efficiency without compromising on quality. My strategic approach helps projects stay on budget while maintaining high standards.
-
-💼 End-to-End Project Commitment
-From concept to completion, I am fully dedicated to every project, ensuring it runs seamlessly, on time, and within budget.
-
-📏 BIM Standards Expertise
-With hands-on experience in BIM strategies, I adhere to these critical international standards:
-
-ISO 19650: Managing information throughout a project's lifecycle.
-
-AIA : Integrating BIM into architectural contracts.
-
-RIBA Plan of Work: Managing projects using BIM, particularly in the UK.
-
-Buildings S-Mart: Implementing innovative BIM solutions for retail and commercial spaces.
+![README](https://github.com/user-attachments/assets/3d680db3-ee09-41d9-bc2b-af6055642b63)
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
