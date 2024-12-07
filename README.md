@@ -40,6 +40,9 @@ Let’s connect and collaborate on innovative solutions that shape the future of
 Let’s connect and collaborate to build something exceptional together! 🚀
 
 
+![ASTRONAUTA](https://github.com/user-attachments/assets/960af275-751c-47a2-b96f-f068c0567c8f)
+
+
 
 ![133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6](https://github.com/user-attachments/assets/d690d399-794e-4eea-adf0-702d9e8b538d)
 <p align="center">
@@ -345,15 +348,6 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 Credits:  Eduardo Ibarra García 
-
-
-
-![ASTRONAUTA](https://github.com/user-attachments/assets/960af275-751c-47a2-b96f-f068c0567c8f)
-
-
-
-
-
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
