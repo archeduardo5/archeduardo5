@@ -320,19 +320,12 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 #### **WHITE:** It's your move... to choose _where_ to move..
 <h3 align="center">♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙</h3>
-
 <p align="center">© All Rights Reserved (EIG) Eduardo Ibarra García ൫</p>
-
-<p align="center">Credits: <strong>Eduardo Ibarra García</strong></p>
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
-  <br><br>
-  <samp>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <p align="center">
-
 </p>
   </td>
   </table>
-
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 Credits:  Eduardo Ibarra García 
@@ -340,4 +333,3 @@ Credits:  Eduardo Ibarra García
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
