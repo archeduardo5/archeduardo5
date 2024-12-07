@@ -117,17 +117,10 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 |<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
 
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
-
-
 ![image](https://github.com/user-attachments/assets/196e822d-8ea0-4c66-bfcf-42080d12307a)
-
-
-
 ![Sales_Overview](https://github.com/user-attachments/assets/21e9f376-fabd-408b-90bd-077a25bc5694)
 
 ![Powerbi_Results](https://github.com/user-attachments/assets/9bc9c742-a55e-41c0-9fe2-c757933eae65)
-
- 
   </br>
 <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
 </p>
@@ -164,8 +157,6 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 
 ![Current_Licenses](https://github.com/user-attachments/assets/fb5f448a-27c2-48f8-8660-2e451ae4f328)
-
-
 ![Licenses Usage](https://github.com/user-attachments/assets/fa6e2c45-2c82-419f-9b6a-b6cf47281b4f)
 
   ***
