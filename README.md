@@ -324,7 +324,10 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <p align="center">© All Rights Reserved (EIG) Eduardo Ibarra García ൫</p>
 
 <p align="center">Credits: <strong>Eduardo Ibarra García</strong></p>
-
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+  <br><br>
+  <samp>
+<p align="center">
 
 </p>
   </td>
