@@ -1,5 +1,29 @@
+👋 Hello there, fellow coders!
+I’m Eduardo Ibarra, an Architectural Engineer passionate about innovative, sustainable, and efficient design. My professional journey spans Construction Documentation, Project Supervision, and Digital Transformation, driving exceptional outcomes across diverse projects. Here’s how I make an impact:
 
-![README](https://github.com/user-attachments/assets/3d680db3-ee09-41d9-bc2b-af6055642b63)
+🌱 Architectural Engineering
+I specialize in designing functional, aesthetically pleasing spaces that meet both client needs and industry standards. My work combines creativity with technical expertise to deliver inspiring, functional designs that are both beautiful and practical.
+
+📐 Construction Documentation & Project Supervision
+From detailed construction plans to on-site execution, I ensure that every project progresses smoothly. I oversee compliance with regulatory standards, ensuring every detail aligns with the project's goals. Precision and quality are the backbone of my approach.
+
+💡 Digital Transformation & Custom Solutions
+As an advocate for technology, I leverage tools like BIM (Building Information Modeling) to streamline workflows, improve collaboration, and create tailored digital solutions that enhance efficiency and project outcomes.
+
+📊 Budget Planning & Review
+I excel at managing budgets, analyzing costs, and ensuring financial efficiency without compromising quality. My strategic approach helps keep projects on budget while meeting high standards of excellence.
+
+💼 End-to-End Project Commitment
+From concept to completion, I’m fully dedicated to each project, ensuring that everything runs smoothly, on time, and within budget. I am committed to delivering exceptional results at every stage.
+
+📏 BIM Standards Expertise
+With hands-on experience in BIM strategies, I am well-versed in the following critical international standards:
+
+ISO 19650: Managing information throughout a project’s lifecycle.
+AIA: Integrating BIM into architectural contracts.
+RIBA Plan of Work: Managing projects using BIM, particularly in the UK.
+Buildings S-Mart: Implementing innovative BIM solutions for retail and commercial spaces.
+Let’s connect and collaborate on innovative solutions that shape the future of architecture and design! 🌟
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
