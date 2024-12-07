@@ -323,13 +323,20 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <p align="center">© All Rights Reserved (EIG) Eduardo Ibarra García ൫</p>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <p align="center">
+
+ 
 </p>
   </td>
   </table>
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+
+ 
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
+	
 Credits:  Eduardo Ibarra García 
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+
+ 
 </p>
