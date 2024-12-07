@@ -43,21 +43,6 @@ Let’s connect and collaborate to build something exceptional together! 🚀
 ![ASTRONAUTA](https://github.com/user-attachments/assets/960af275-751c-47a2-b96f-f068c0567c8f)
 
 
-
-![133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6](https://github.com/user-attachments/assets/d690d399-794e-4eea-adf0-702d9e8b538d)
-<p align="center">
-
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-<p align="center">
-
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
-  <br><br>
-  <samp>
-<p align="center">
-
-
-
-
 https://github.com/user-attachments/assets/6b7c2e6e-b6e9-48df-96e0-62d745c7fada
 
 
