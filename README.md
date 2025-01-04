@@ -352,15 +352,24 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 
+</br></br>
+<h2>:notes: Now playing</h2>
+<!-- Uncomment the following line if you want to display the last song you've listened to from Last.fm -->
+<!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a> -->
+
 </br>
-<a href="https://open.spotify.com/intl-es/album/1WldVsaTr7WbnxUVeiTUj8"><img src="https://open.spotify.com/intl-es/album/1WldVsaTr7WbnxUVeiTUj8" alt="Now playing on Spotify" ></a>
+<a href="https://open.spotify.com/intl-es/album/1WldVsaTr7WbnxUVeiTUj8" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b273dfb17b47e4d91b4c5c561ccd" alt="Now playing on Spotify" />
+</a>
 
-<details>
-    <summary>Recently played</summary>
-    <a href="https://open.spotify.com/intl-es/album/1WldVsaTr7WbnxUVeiTUj8"><img src="https://open.spotify.com/intl-es/album/1WldVsaTr7WbnxUVeiTUj8" alt="Spotify recently played"></a>
-</details>
-
+</br></br>
 <h3>:headphones: Albums I've listened to the most this week</h3>
+<!-- Add your album list here, for example: -->
+<ul>
+  <li><a href="https://open.spotify.com/album/1WldVsaTr7WbnxUVeiTUj8">Album Title 1</a></li>
+  <li><a href="https://open.spotify.com/album/4aG5ZGp5g3z34K02XxvYZ1">Album Title 2</a></li>
+  <li><a href="https://open.spotify.com/album/7e8YmcwPAFY0bjlMOkh6MI">Album Title 3</a></li>
+</ul>
 
 
 #### **WHITE:** It's your move... to choose _where_ to move..
