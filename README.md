@@ -45,9 +45,9 @@ Let’s connect and collaborate on innovative solutions that shape the future of
 
 Let’s connect and collaborate to build something exceptional together! 🚀
 
-
-
 ![MIDJOURNEY](https://github.com/user-attachments/assets/52947933-a663-424d-bee8-57f7589d1837)
+
+![HUMAN_AI_FUTURE_TO_DAY](https://github.com/user-attachments/assets/1f4e2f8f-ae8e-4784-ba47-5437ea2377c7)
 
 
 ![READEME_REACT](https://github.com/user-attachments/assets/7d210e2c-4698-46a4-a84c-08965e55178d)
