@@ -370,9 +370,8 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
 
-
-![Faithless - Insomnia](https://github.com/user-attachments/assets/69d00e74-dc62-4ef3-a7d9-5e1520d7e86b)
-             
+![Faithless - Insomnia](https://github.com/user-attachments/assets/7d26d024-f86c-4ba3-8dde-8033b2c6a6af)
+   
                
 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
