@@ -352,13 +352,19 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 
+</br>
+<a href="https://www.youtube.com/watch?v=klPKxXIJoy4"><img src="https://www.youtube.com/watch?v=klPKxXIJoy4" alt="Now playing on Youtube" ></a>
+
+<details>
+    <summary>Recently played</summary>
+    <a href="https://www.youtube.com/watch?v=klPKxXIJoy4"><img src="https://www.youtube.com/watch?v=klPKxXIJoy4" alt="Youtube recently played"></a>
+</details>
+
+<h3>:headphones: Albums I've listened to the most this week</h3>
+
 
 #### **WHITE:** It's your move... to choose _where_ to move..
-
-
 ![giphy](https://github.com/user-attachments/assets/a6a429b1-7de8-4af7-b532-155df03383c6)
-
-
 
 <h3 align="center">♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙</h3>
 <p align="center">© All Rights Reserved (EIG) Eduardo Ibarra García ൫    
