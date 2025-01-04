@@ -158,12 +158,21 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
   ***
   ![Licenses Usage](https://github.com/user-attachments/assets/81e00738-359b-4e94-b96f-55d1c1db2967)
 
-  > Human Vs. AI (1:0) :s
   
   ***
-![1718420648474](https://github.com/user-attachments/assets/37713941-0ba6-4505-98d1-35e3bff4e456)
 
-![ww](https://github.com/user-attachments/assets/86515d74-eca5-45a8-af6f-7209814a3244)
+![generateman_Ultra-futuristic_industrial_area_high_angle _photo__ea56c6a9-967f-4585-8253-980e4092cdcb](https://github.com/user-attachments/assets/0fbd07b2-041a-4559-ae3f-1f19473039a7)
+
+
+
+![nintendods](https://github.com/user-attachments/assets/ba44775a-066c-410a-981e-d9ab561d96fa)
+
+
+<h2>🛠️ |🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️
+
+![bugu0602_a_macro_image_to_depict_the_pathophysiology_of_neuropl_d9300784-f35a-4888-96e4-ca685b42d412](https://github.com/user-attachments/assets/2b4530f5-645f-4a2c-a49b-348675f933ef)
+
+
 -----
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
