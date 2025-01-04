@@ -50,6 +50,14 @@ Let’s connect and collaborate to build something exceptional together! 🚀
 ![MIDJOURNEY](https://github.com/user-attachments/assets/52947933-a663-424d-bee8-57f7589d1837)
 
 
+![READEME_REACT](https://github.com/user-attachments/assets/7d210e2c-4698-46a4-a84c-08965e55178d)
+
+
+![4563a380-a703-44ba-aec0-f864d65db93d](https://github.com/user-attachments/assets/ec922d3a-430d-4c4c-8d0c-42bf4df0ca1f)
+
+
+
+
 ![0_0](https://github.com/user-attachments/assets/29d35d6b-260e-4094-a67d-e1a903eaeb01)
 
 
