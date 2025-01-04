@@ -43,6 +43,11 @@ Let’s connect and collaborate to build something exceptional together! 🚀
 
 ![MIDJOURNEY](https://github.com/user-attachments/assets/52947933-a663-424d-bee8-57f7589d1837)
 
+
+![0_0](https://github.com/user-attachments/assets/29d35d6b-260e-4094-a67d-e1a903eaeb01)
+
+
+
 ![OIP (3)](https://github.com/user-attachments/assets/b74ae98d-75ff-4a28-8184-93d729dedc3f)
 
 https://github.com/user-attachments/assets/6b7c2e6e-b6e9-48df-96e0-62d745c7fada
@@ -168,10 +173,11 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 ![nintendods](https://github.com/user-attachments/assets/ba44775a-066c-410a-981e-d9ab561d96fa)
 
 
-<h2>🛠️ |🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️
+<h2>🛠️ |🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️
 
 ![bugu0602_a_macro_image_to_depict_the_pathophysiology_of_neuropl_d9300784-f35a-4888-96e4-ca685b42d412](https://github.com/user-attachments/assets/2b4530f5-645f-4a2c-a49b-348675f933ef)
 
+![00d289a5fcd313d5dcc8953e613ad5b05630b0ebef9afcbd9e2c4f5294de7b8f](https://github.com/user-attachments/assets/efd5eabb-b031-4228-9916-7a4385bb5504)
 
 -----
 
