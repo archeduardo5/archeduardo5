@@ -32,7 +32,7 @@ Let’s connect and collaborate on innovative solutions that shape the future of
 
   Let's build the future! 🌍
 
-  ## **Thank You for Visiting My Profile** Last Edited on: 06/12/2024 
+  ## **Thank You for Visiting My Profile** Last Edited on: 03/01/2025
 
 
 ![giphy](https://github.com/user-attachments/assets/499b684c-0e9d-4d83-9680-2de96b7ac2c0)
@@ -40,8 +40,10 @@ Let’s connect and collaborate on innovative solutions that shape the future of
 Let’s connect and collaborate to build something exceptional together! 🚀
 
 
-![ASTRONAUTA](https://github.com/user-attachments/assets/960af275-751c-47a2-b96f-f068c0567c8f)
 
+![MIDJOURNEY](https://github.com/user-attachments/assets/52947933-a663-424d-bee8-57f7589d1837)
+
+![OIP (3)](https://github.com/user-attachments/assets/b74ae98d-75ff-4a28-8184-93d729dedc3f)
 
 https://github.com/user-attachments/assets/6b7c2e6e-b6e9-48df-96e0-62d745c7fada
 
