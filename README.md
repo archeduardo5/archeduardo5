@@ -1,28 +1,33 @@
-👋 Hello there, fellow coders!
-I’m Eduardo Ibarra, an Architectural Engineer passionate about innovative, sustainable, and efficient design. My professional journey spans Construction Documentation, Project Supervision, and Digital Transformation, driving exceptional outcomes across diverse projects. Here’s how I make an impact:
+Hi, I'm Eduardo Ibarra! I'm an Architectural Engineer with a passion for innovative, sustainable, and efficient design. My career spans Construction Documentation, Project Supervision, and Digital Transformation, always focusing on delivering exceptional results. Here’s how I make an impact:
 
-🌱 Architectural Engineering
-I specialize in designing functional, aesthetically pleasing spaces that meet both client needs and industry standards. My work combines creativity with technical expertise to deliver inspiring, functional designs that are both beautiful and practical.
+🌱 Architectural Design
+I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical.
 
 📐 Construction Documentation & Project Supervision
-From detailed construction plans to on-site execution, I ensure that every project progresses smoothly. I oversee compliance with regulatory standards, ensuring every detail aligns with the project's goals. Precision and quality are the backbone of my approach.
+From detailed construction plans to on-site execution, I ensure every project progresses smoothly, meeting regulatory standards and maintaining top-quality execution throughout.
 
-💡 Digital Transformation & Custom Solutions
-As an advocate for technology, I leverage tools like BIM (Building Information Modeling) to streamline workflows, improve collaboration, and create tailored digital solutions that enhance efficiency and project outcomes.
+💡 Digital Transformation & Tailored Solutions
+As a tech advocate, I leverage tools like BIM (Building Information Modeling) to streamline workflows, enhance collaboration, and create customized digital solutions that drive efficiency and improve outcomes.
 
 📊 Budget Planning & Review
-I excel at managing budgets, analyzing costs, and ensuring financial efficiency without compromising quality. My strategic approach helps keep projects on budget while meeting high standards of excellence.
+I excel at managing budgets, analyzing costs, and ensuring financial efficiency without compromising on quality. My strategic approach ensures projects stay on budget and meet high standards of excellence.
 
 💼 End-to-End Project Commitment
-From concept to completion, I’m fully dedicated to each project, ensuring that everything runs smoothly, on time, and within budget. I am committed to delivering exceptional results at every stage.
+I’m fully dedicated to every project, from concept to completion, ensuring everything runs smoothly, on time, and within budget, with exceptional results at every stage.
 
 📏 BIM Standards Expertise
-With hands-on experience in BIM strategies, I am well-versed in the following critical international standards:
+With hands-on experience in BIM strategies, I’m well-versed in key international standards such as:
 
-ISO 19650: Managing information throughout a project’s lifecycle.
+ISO 19650: Managing information throughout the project lifecycle.
 AIA: Integrating BIM into architectural contracts.
-RIBA Plan of Work: Managing projects using BIM, particularly in the UK.
-Buildings S-Mart: Implementing innovative BIM solutions for retail and commercial spaces.
+RIBA Plan of Work: Managing projects with BIM in the UK.
+Buildings S-Mart: Implementing innovative BIM solutions for commercial and retail spaces.
+🎮 Programming
+In my free time, I enjoy programming and exploring new technologies. I love creating digital solutions and customizing tools to improve processes.
+
+📸 Photography & Editing
+I also have a passion for photography and editing, capturing moments and transforming images by combining creativity and technical skills.
+
 Let’s connect and collaborate on innovative solutions that shape the future of architecture and design! 🌟
 
  ### Profile Views :<br>
