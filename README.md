@@ -353,6 +353,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 
 # 🎵 Now Playing
+![5c25fd8cf5916dcbd85b0ae41b05e51cbab09e7b](https://github.com/user-attachments/assets/64b92aa0-13de-423f-8a5b-d007c8dacd97)
 
 <img src="https://i.scdn.co/image/ab67616d0000b273dfb17b47e4d91b4c5c561ccd" alt="Now playing on Spotify" width="200"/>
 
@@ -372,10 +373,18 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 ![giphy](https://github.com/user-attachments/assets/a6a429b1-7de8-4af7-b532-155df03383c6)
 
-<h3 align="center">♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙</h3>
-<p align="center">© All Rights Reserved (EIG) Eduardo Ibarra García ൫    
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+               
+               
+               
+               
+♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
 
-</p>Credits:  Eduardo Ibarra García 
+© All Rights Reserved
+
+Eduardo Ibarra García (EIG) ൫
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" /> 
