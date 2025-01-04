@@ -353,11 +353,11 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 
 </br>
-<a href="https://www.youtube.com/watch?v=klPKxXIJoy4"><img src="https://www.youtube.com/watch?v=klPKxXIJoy4" alt="Now playing on Youtube" ></a>
+<a href="https://open.spotify.com/intl-es/album/1WldVsaTr7WbnxUVeiTUj8"><img src="https://open.spotify.com/intl-es/album/1WldVsaTr7WbnxUVeiTUj8" alt="Now playing on Spotify" ></a>
 
 <details>
     <summary>Recently played</summary>
-    <a href="https://www.youtube.com/watch?v=klPKxXIJoy4"><img src="https://www.youtube.com/watch?v=klPKxXIJoy4" alt="Youtube recently played"></a>
+    <a href="https://open.spotify.com/intl-es/album/1WldVsaTr7WbnxUVeiTUj8"><img src="https://open.spotify.com/intl-es/album/1WldVsaTr7WbnxUVeiTUj8" alt="Spotify recently played"></a>
 </details>
 
 <h3>:headphones: Albums I've listened to the most this week</h3>
