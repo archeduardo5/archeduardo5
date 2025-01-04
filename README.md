@@ -56,8 +56,6 @@ Let’s connect and collaborate to build something exceptional together! 🚀
 ![4563a380-a703-44ba-aec0-f864d65db93d](https://github.com/user-attachments/assets/ec922d3a-430d-4c4c-8d0c-42bf4df0ca1f)
 
 
-
-
 ![0_0](https://github.com/user-attachments/assets/29d35d6b-260e-4094-a67d-e1a903eaeb01)
 
 
@@ -65,10 +63,6 @@ Let’s connect and collaborate to build something exceptional together! 🚀
 ![OIP (3)](https://github.com/user-attachments/assets/b74ae98d-75ff-4a28-8184-93d729dedc3f)
 
 https://github.com/user-attachments/assets/6b7c2e6e-b6e9-48df-96e0-62d745c7fada
-
-
-
-
 
 https://github.com/user-attachments/assets/a16629db-c748-47b7-ba91-026a667157e2
 
@@ -127,7 +121,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
 
-♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
+
 ![image](https://github.com/user-attachments/assets/196e822d-8ea0-4c66-bfcf-42080d12307a)
 ![Sales_Overview](https://github.com/user-attachments/assets/21e9f376-fabd-408b-90bd-077a25bc5694)
 
