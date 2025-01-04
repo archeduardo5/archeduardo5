@@ -340,10 +340,13 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 
 
+#### **WHITE:** It's your move... to choose _where_ to move..
+
+
 ![giphy](https://github.com/user-attachments/assets/a6a429b1-7de8-4af7-b532-155df03383c6)
 
 
-#### **WHITE:** It's your move... to choose _where_ to move..
+
 <h3 align="center">♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙</h3>
 <p align="center">© All Rights Reserved (EIG) Eduardo Ibarra García ൫    
 
