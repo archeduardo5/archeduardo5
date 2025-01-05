@@ -48,9 +48,10 @@ Let’s connect and collaborate to build something exceptional together! 🚀
 
 ![HUMAN_AI_FUTURE_TO_DAY](https://github.com/user-attachments/assets/1f4e2f8f-ae8e-4784-ba47-5437ea2377c7)
 
-![Enscape_2025-01-05-00-58-18](https://github.com/user-attachments/assets/c70abf5f-0678-4b99-9e6f-f9b998bbd6c3)
+![Uploading enhanced-Enscape_2025-01-05-01-26-01.png…]()
 
-![Enscape_2025-01-05-01-04-21](https://github.com/user-attachments/assets/f08c8460-eda2-4f3b-baea-5083821e6a68)
+
+![Uploading enhanced-Enscape_2025-01-05-01-53-51.png…]()
 
 
 
