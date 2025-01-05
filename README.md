@@ -37,6 +37,12 @@ ISO 19650: Managing information throughout the project lifecycle.
 AIA: Integrating BIM into architectural contracts.
 RIBA Plan of Work: Managing projects with BIM in the UK.
 Buildings S-Mart: Implementing innovative BIM solutions for commercial and retail spaces.
+
+
+![252170fa-900e-40bf-a121-49f9bce2bc77](https://github.com/user-attachments/assets/dcd4f325-ae7f-4031-814f-37da5f1a67bb)
+
+
+
 🎮 Programming
 In my free time, I enjoy programming and exploring new technologies. I love creating digital solutions and customizing tools to improve processes.
 
