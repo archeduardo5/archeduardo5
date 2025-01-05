@@ -15,6 +15,11 @@ From detailed construction plans to on-site execution, I ensure every project pr
 💡 Digital Transformation & Tailored Solutions
 As a tech advocate, I leverage tools like BIM (Building Information Modeling) to streamline workflows, enhance collaboration, and create customized digital solutions that drive efficiency and improve outcomes.
 
+
+
+![651e3e4c-b335-4d95-9716-b7c4f750b702](https://github.com/user-attachments/assets/f6e9e311-a74b-40a5-873a-9daafdedd91e)
+
+
 📊 Budget Planning & Review
 I excel at managing budgets, analyzing costs, and ensuring financial efficiency without compromising on quality. My strategic approach ensures projects stay on budget and meet high standards of excellence.
 
