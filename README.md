@@ -3,17 +3,14 @@ Hi, I'm Eduardo Ibarra! I'm an Architectural Engineer with a passion for innovat
 🌱 Architectural Design
 I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical.
 
-
-
-
-
 ![fcapp_bd3b0a46-70d3-438c-bb3e-0041e5d834f6_1622523893496](https://github.com/user-attachments/assets/054f01be-ba96-4c4b-a115-450e560f045e)
-
-
 
 
 📐 Construction Documentation & Project Supervision
 From detailed construction plans to on-site execution, I ensure every project progresses smoothly, meeting regulatory standards and maintaining top-quality execution throughout.
+
+![newscontent-924b4671-784e-43b1-8f07-25e49655a5e2-1736062093538](https://github.com/user-attachments/assets/5d9f1c14-c4dc-4c0e-8d7e-0e9d6d35d129)
+
 
 💡 Digital Transformation & Tailored Solutions
 As a tech advocate, I leverage tools like BIM (Building Information Modeling) to streamline workflows, enhance collaboration, and create customized digital solutions that drive efficiency and improve outcomes.
@@ -23,8 +20,6 @@ I excel at managing budgets, analyzing costs, and ensuring financial efficiency 
 
 
 ![Maquette](https://github.com/user-attachments/assets/e13d75d6-8bc8-4831-8c0a-66cff5b87212)
-
-
 
 
 💼 End-to-End Project Commitment
