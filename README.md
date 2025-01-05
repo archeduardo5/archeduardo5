@@ -67,6 +67,12 @@ I also have a passion for photography and editing, capturing moments and transfo
 
 Let’s connect and collaborate on innovative solutions that shape the future of architecture and design! 🌟
 
+![Uploading highly_advanced_robotic_stingray_designed_with_a_st_e5066b12-485e-46ce-9648-1a87d9ba4afe.png…]()
+
+
+
+
+
 
 
 
