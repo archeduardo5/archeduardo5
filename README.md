@@ -73,13 +73,13 @@ Let’s connect and collaborate on innovative solutions that shape the future of
 ![highly_advanced_robotic_stingray_designed_with_a_st_e5066b12-485e-46ce-9648-1a87d9ba4afe](https://github.com/user-attachments/assets/893868f5-46e7-4dd5-9244-1a576e4e1fc0)
 
 
-
-
-
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
  ![Mcfly_Dc_Go_To_Back_To_The_Future](https://github.com/user-attachments/assets/babd21c9-54bd-44f6-b79f-52309702afb4)
+
+ ![u1367294228_CREATE_infographic_like_the_attached _COLOR_Dark__0aa97366-aabe-464d-903a-98c4a97537ec_2](https://github.com/user-attachments/assets/cc73f087-0f05-48d4-8a86-c9e86c3698ad)
+
 
   Let's build the future! 🌍
 
@@ -88,7 +88,7 @@ Let’s connect and collaborate on innovative solutions that shape the future of
 
 ![giphy](https://github.com/user-attachments/assets/499b684c-0e9d-4d83-9680-2de96b7ac2c0)
 
-Let’s connect and collaborate to build something exceptional together! 🚀
+🚀 Let’s connect and collaborate to build something exceptional together! 🚀
 
 ![MIDJOURNEY](https://github.com/user-attachments/assets/52947933-a663-424d-bee8-57f7589d1837)
 
