@@ -1,4 +1,4 @@
-Hi, I'm Eduardo Ibarra! I'm an Architectural Engineer with a passion for innovative, sustainable, and efficient design. My career spans Construction Documentation, Project Supervision, and Digital Transformation, always focusing on delivering exceptional results. Here’s how I make an impact:
+![enhanced-Enscape_2025-01-05-01-26-01](https://github.com/user-attachments/assets/73b8c589-55ba-44d8-83a9-4bc3132b5c98)Hi, I'm Eduardo Ibarra! I'm an Architectural Engineer with a passion for innovative, sustainable, and efficient design. My career spans Construction Documentation, Project Supervision, and Digital Transformation, always focusing on delivering exceptional results. Here’s how I make an impact:
 
 🌱 Architectural Design
 I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical.
@@ -49,9 +49,9 @@ Let’s connect and collaborate to build something exceptional together! 🚀
 ![HUMAN_AI_FUTURE_TO_DAY](https://github.com/user-attachments/assets/1f4e2f8f-ae8e-4784-ba47-5437ea2377c7)
 
 
+![68747470733a2f2f692e6962622e636f2f38364e514435632f7468756d626e61696c2d33642d706f7274666f6c696f2d736d616c6c65722e6a7067](https://github.com/user-attachments/assets/d8b6ff16-e151-4a3f-82d1-55db0ee1805d)
 
-
-
+![Uploading enhanced-Enscape_2025-01-05-01-26-01.png…]()
 
 
 ![READEME_REACT](https://github.com/user-attachments/assets/7d210e2c-4698-46a4-a84c-08965e55178d)
