@@ -6,7 +6,7 @@ I specialize in creating functional and aesthetically pleasing spaces that meet 
 ![fcapp_bd3b0a46-70d3-438c-bb3e-0041e5d834f6_1622523893496](https://github.com/user-attachments/assets/054f01be-ba96-4c4b-a115-450e560f045e)
 
 
-📐 Construction Documentation & Project Supervision
+📐 Construction Documents & Project Supervision
 From detailed construction plans to on-site execution, I ensure every project progresses smoothly, meeting regulatory standards and maintaining top-quality execution throughout.
 
 ![newscontent-924b4671-784e-43b1-8f07-25e49655a5e2-1736062093538](https://github.com/user-attachments/assets/5d9f1c14-c4dc-4c0e-8d7e-0e9d6d35d129)
