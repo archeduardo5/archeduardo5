@@ -46,8 +46,16 @@ Buildings S-Mart: Implementing innovative BIM solutions for commercial and retai
 🎮 Programming
 In my free time, I enjoy programming and exploring new technologies. I love creating digital solutions and customizing tools to improve processes.
 
+
+![c7040c84-f0b4-47ad-9ab8-5f390cee14ae](https://github.com/user-attachments/assets/bb1d8435-85d5-40ab-bd5e-6b110c439c22)
+
+
 📸 Photography & Editing
 I also have a passion for photography and editing, capturing moments and transforming images by combining creativity and technical skills.
+
+
+
+
 
 Let’s connect and collaborate on innovative solutions that shape the future of architecture and design! 🌟
 
