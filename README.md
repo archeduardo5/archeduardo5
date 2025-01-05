@@ -1,7 +1,16 @@
-![fcapp_bd3b0a46-70d3-438c-bb3e-0041e5d834f6_1622523893496](https://github.com/user-attachments/assets/054f01be-ba96-4c4b-a115-450e560f045e)Hi, I'm Eduardo Ibarra! I'm an Architectural Engineer with a passion for innovative, sustainable, and efficient design. My career spans Construction Documentation, Project Supervision, and Digital Transformation, always focusing on delivering exceptional results. Here’s how I make an impact:
+Hi, I'm Eduardo Ibarra! I'm an Architectural Engineer with a passion for innovative, sustainable, and efficient design. My career spans Construction Documentation, Project Supervision, and Digital Transformation, always focusing on delivering exceptional results. Here’s how I make an impact:
 
 🌱 Architectural Design
 I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical.
+
+
+
+
+
+![fcapp_bd3b0a46-70d3-438c-bb3e-0041e5d834f6_1622523893496](https://github.com/user-attachments/assets/054f01be-ba96-4c4b-a115-450e560f045e)
+
+
+
 
 📐 Construction Documentation & Project Supervision
 From detailed construction plans to on-site execution, I ensure every project progresses smoothly, meeting regulatory standards and maintaining top-quality execution throughout.
@@ -11,6 +20,12 @@ As a tech advocate, I leverage tools like BIM (Building Information Modeling) to
 
 📊 Budget Planning & Review
 I excel at managing budgets, analyzing costs, and ensuring financial efficiency without compromising on quality. My strategic approach ensures projects stay on budget and meet high standards of excellence.
+
+
+![Maquette](https://github.com/user-attachments/assets/e13d75d6-8bc8-4831-8c0a-66cff5b87212)
+
+
+
 
 💼 End-to-End Project Commitment
 I’m fully dedicated to every project, from concept to completion, ensuring everything runs smoothly, on time, and within budget, with exceptional results at every stage.
@@ -47,12 +62,6 @@ Let’s connect and collaborate to build something exceptional together! 🚀
 ![MIDJOURNEY](https://github.com/user-attachments/assets/52947933-a663-424d-bee8-57f7589d1837)
 
 ![HUMAN_AI_FUTURE_TO_DAY](https://github.com/user-attachments/assets/1f4e2f8f-ae8e-4784-ba47-5437ea2377c7)
-
-
-![Maquette](https://github.com/user-attachments/assets/e13d75d6-8bc8-4831-8c0a-66cff5b87212)
-
-
-
 
 
 
