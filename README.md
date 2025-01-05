@@ -38,10 +38,24 @@ I’m fully dedicated to every project, from concept to completion, ensuring eve
 📏 BIM Standards Expertise
 With hands-on experience in BIM strategies, I’m well-versed in key international standards such as:
 
+
+
+
+![R (2)](https://github.com/user-attachments/assets/f63ab35a-1372-4a88-9da1-55f3ab9d19c3)
+
+
+
 ISO 19650: Managing information throughout the project lifecycle.
+
+
 AIA: Integrating BIM into architectural contracts.
+
+
 RIBA Plan of Work: Managing projects with BIM in the UK.
+
+
 Buildings S-Mart: Implementing innovative BIM solutions for commercial and retail spaces.
+
 
 
 ![252170fa-900e-40bf-a121-49f9bce2bc77](https://github.com/user-attachments/assets/dcd4f325-ae7f-4031-814f-37da5f1a67bb)
@@ -236,6 +250,12 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 
 ![nintendods](https://github.com/user-attachments/assets/ba44775a-066c-410a-981e-d9ab561d96fa)
+
+
+
+
+![R (1)](https://github.com/user-attachments/assets/3d11b184-8ef5-4115-9925-8406983122a4)
+
 
 
 <h2>🛠️ |🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️|🛠️
