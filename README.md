@@ -35,10 +35,9 @@ Let’s connect and collaborate on innovative solutions that shape the future of
 
  ![Mcfly_Dc_Go_To_Back_To_The_Future](https://github.com/user-attachments/assets/babd21c9-54bd-44f6-b79f-52309702afb4)
 
-
   Let's build the future! 🌍
 
-  ## **Thank You for Visiting My Profile** Last Edited on: 03/01/2025
+  ## **Thank You for Visiting My Profile** Last Edited on: 05/01/2025
 
 
 ![giphy](https://github.com/user-attachments/assets/499b684c-0e9d-4d83-9680-2de96b7ac2c0)
@@ -48,6 +47,11 @@ Let’s connect and collaborate to build something exceptional together! 🚀
 ![MIDJOURNEY](https://github.com/user-attachments/assets/52947933-a663-424d-bee8-57f7589d1837)
 
 ![HUMAN_AI_FUTURE_TO_DAY](https://github.com/user-attachments/assets/1f4e2f8f-ae8e-4784-ba47-5437ea2377c7)
+
+![Enscape_2025-01-05-00-58-18](https://github.com/user-attachments/assets/c70abf5f-0678-4b99-9e6f-f9b998bbd6c3)
+
+![Enscape_2025-01-05-01-04-21](https://github.com/user-attachments/assets/f08c8460-eda2-4f3b-baea-5083821e6a68)
+
 
 
 ![READEME_REACT](https://github.com/user-attachments/assets/7d210e2c-4698-46a4-a84c-08965e55178d)
@@ -379,9 +383,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
 
-© All Rights Reserved
-
-Eduardo Ibarra García (EIG) ൫
+© All Rights Reserved  (EIG) ൫
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" /> 
