@@ -1,7 +1,20 @@
 Hi, 
 I'm Eduardo Ibarra! 
 I'm an Architectural Engineer with a passion for innovative, sustainable, and efficient design. My career spans Construction Documentation, Project Supervision, and Digital Transformation, always focusing on delivering exceptional results. Here’s how I make an impact:
+
+
+
+
+
+
 ![0139d35e-7f35-418b-9595-8a7b6817bebb](https://github.com/user-attachments/assets/57d21c8a-5a64-4c26-ad79-7f0709429e2e)
+
+
+
+
+
+
+
 
 🌱 Architectural Design
 I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical.
