@@ -35,6 +35,12 @@ I excel at managing budgets, analyzing costs, and ensuring financial efficiency 
 💼 End-to-End Project Commitment
 I’m fully dedicated to every project, from concept to completion, ensuring everything runs smoothly, on time, and within budget, with exceptional results at every stage.
 
+
+
+![banner-1-1024x541](https://github.com/user-attachments/assets/b22e6566-a7fb-45f9-b2a5-343e2713b7ba)
+
+
+
 📏 BIM Standards Expertise
 With hands-on experience in BIM strategies, I’m well-versed in key international standards such as:
 
@@ -52,6 +58,9 @@ AIA: Integrating BIM into architectural contracts.
 
 
 RIBA Plan of Work: Managing projects with BIM in the UK.
+
+![THERIBAUK](https://github.com/user-attachments/assets/a60ea7ee-fad4-4f3b-8251-dcba2fc7cdae)
+
 
 
 Buildings S-Mart: Implementing innovative BIM solutions for commercial and retail spaces.
