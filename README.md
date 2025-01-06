@@ -8,6 +8,8 @@ Hi, I'm Eduardo Ibarra! I'm an Architectural Engineer with a passion for innovat
 🌱 Architectural Design
 I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical.
 
+![schematic_design](https://github.com/user-attachments/assets/c070dfe7-1b72-4610-b94d-ed06bd3b7343)
+
 
 ![DASschematic_design](https://github.com/user-attachments/assets/2f4c2bca-5676-488f-9732-d5222c93f6fd)
 
