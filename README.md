@@ -124,14 +124,22 @@ Let’s connect and collaborate on innovative solutions that shape the future of
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
+
+![WOLFy](https://github.com/user-attachments/assets/24f827b2-31f2-4027-9991-5e0ff92a60c9)
+
+  
+
  ![Mcfly_Dc_Go_To_Back_To_The_Future](https://github.com/user-attachments/assets/babd21c9-54bd-44f6-b79f-52309702afb4)
+
+
+ 
 
  ![u1367294228_CREATE_infographic_like_the_attached _COLOR_Dark__0aa97366-aabe-464d-903a-98c4a97537ec_2](https://github.com/user-attachments/assets/cc73f087-0f05-48d4-8a86-c9e86c3698ad)
 
 
   Let's build the future! 🌍
 
-  ## **Thank You for Visiting My Profile** Last Edited on: 05/01/2025
+  ## **Thank You for Visiting My Profile** Last Edited on: 06.01.2025
 
 
 ![giphy](https://github.com/user-attachments/assets/499b684c-0e9d-4d83-9680-2de96b7ac2c0)
@@ -283,7 +291,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 
 
-![nintendods](https://github.com/user-attachments/assets/ba44775a-066c-410a-981e-d9ab561d96fa)
+
 
 
 
