@@ -8,6 +8,10 @@ Hi, I'm Eduardo Ibarra! I'm an Architectural Engineer with a passion for innovat
 🌱 Architectural Design
 I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical.
 
+
+![DASschematic_design](https://github.com/user-attachments/assets/2f4c2bca-5676-488f-9732-d5222c93f6fd)
+
+
 ![fcapp_bd3b0a46-70d3-438c-bb3e-0041e5d834f6_1622523893496](https://github.com/user-attachments/assets/054f01be-ba96-4c4b-a115-450e560f045e)
 
 
@@ -55,6 +59,11 @@ ISO 19650: Managing information throughout the project lifecycle.
 
 
 AIA: Integrating BIM into architectural contracts.
+
+
+
+![AIA](https://github.com/user-attachments/assets/3bd84d58-e36c-4ed2-8c11-d4bea5141af8)
+
 
 
 RIBA Plan of Work: Managing projects with BIM in the UK.
