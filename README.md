@@ -45,13 +45,13 @@ I’m fully dedicated to every project, from concept to completion, ensuring eve
 With hands-on experience in BIM strategies, I’m well-versed in key international standards such as:
 
 
-
-
 ![R (2)](https://github.com/user-attachments/assets/f63ab35a-1372-4a88-9da1-55f3ab9d19c3)
 
 
-
 ISO 19650: Managing information throughout the project lifecycle.
+
+![logo-ISO-19650-1030x839-1](https://github.com/user-attachments/assets/21e9bb56-f46c-4b9c-a009-d5ba521e185b)
+
 
 
 AIA: Integrating BIM into architectural contracts.
@@ -65,6 +65,7 @@ RIBA Plan of Work: Managing projects with BIM in the UK.
 
 Buildings S-Mart: Implementing innovative BIM solutions for commercial and retail spaces.
 
+![Buildings S-Mart](https://github.com/user-attachments/assets/0612c391-b1cc-4921-8724-4e46793f0711)
 
 
 ![252170fa-900e-40bf-a121-49f9bce2bc77](https://github.com/user-attachments/assets/dcd4f325-ae7f-4031-814f-37da5f1a67bb)
