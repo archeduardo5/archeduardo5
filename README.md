@@ -1,3 +1,10 @@
+![wolf_wall_street2](https://github.com/user-attachments/assets/25616e98-0002-4345-81c7-a5dfdf919f83)
+
+
+
+
+
+
 Hi, 
 I'm Eduardo Ibarra! 
 I'm an Architectural Engineer with a passion for innovative, sustainable, and efficient design. My career spans Construction Documentation, Project Supervision, and Digital Transformation, always focusing on delivering exceptional results. Here’s how I make an impact:
@@ -129,7 +136,11 @@ Let’s connect and collaborate on innovative solutions that shape the future of
 
   
 
- ![Mcfly_Dc_Go_To_Back_To_The_Future](https://github.com/user-attachments/assets/babd21c9-54bd-44f6-b79f-52309702afb4)
+
+
+
+
+https://github.com/user-attachments/assets/fd1e7337-be55-4aa4-a653-ad12222c0956
 
 
  
@@ -139,7 +150,9 @@ Let’s connect and collaborate on innovative solutions that shape the future of
 
   Let's build the future! 🌍
 
-  ## **Thank You for Visiting My Profile** Last Edited on: 06.01.2025
+  ## **Thank You for Visiting My Profile** 
+  
+  ## **Last Edited on: 07.01.2025**
 
 
 ![giphy](https://github.com/user-attachments/assets/499b684c-0e9d-4d83-9680-2de96b7ac2c0)
