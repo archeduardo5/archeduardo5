@@ -1,6 +1,11 @@
 ![wolf_wall_street2](https://github.com/user-attachments/assets/25616e98-0002-4345-81c7-a5dfdf919f83)
 
 
+![The_Wolf_of_BIM](https://github.com/user-attachments/assets/c43fe643-342e-4c76-9615-f7d9f917b888)
+
+
+![Cover_The_Wolf_of_BIM](https://github.com/user-attachments/assets/a7617f1e-b490-4d0f-baf0-5454c26d369a)
+
 
 
 
@@ -152,7 +157,7 @@ https://github.com/user-attachments/assets/fd1e7337-be55-4aa4-a653-ad12222c0956
 
   ## **Thank You for Visiting My Profile** 
   
-  ## **Last Edited on: 07.01.2025**
+  ## **Last Edited on: 09.01.2025**
 
 
 ![giphy](https://github.com/user-attachments/assets/499b684c-0e9d-4d83-9680-2de96b7ac2c0)
