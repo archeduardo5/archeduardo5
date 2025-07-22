@@ -67,21 +67,12 @@ I excel at managing budgets, analyzing costs, and ensuring financial efficiency 
 https://github.com/user-attachments/assets/c453b49a-931d-4fcd-aea7-7964f5285d24
 
 
-
-
   ## **Thank You for Visiting My Profile** 
   
   ## **Last Edited on: 22.07.2025**
 
 
-
 ![MIDJOURNEY](https://github.com/user-attachments/assets/52947933-a663-424d-bee8-57f7589d1837)
-
-![HUMAN_AI_FUTURE_TO_DAY](https://github.com/user-attachments/assets/1f4e2f8f-ae8e-4784-ba47-5437ea2377c7)
-
-![Enscape_2025-01-10-12-53-24](https://github.com/user-attachments/assets/be7407c1-e63b-4d23-9000-5b4984fbd384)
-
-![68747470733a2f2f692e6962622e636f2f38364e514435632f7468756d626e61696c2d33642d706f7274666f6c696f2d736d616c6c65722e6a7067](https://github.com/user-attachments/assets/d8b6ff16-e151-4a3f-82d1-55db0ee1805d)
 
 
 ![teaser_study](https://github.com/user-attachments/assets/248f65a6-d6b0-4d62-93b7-24be04c6eb3e)
