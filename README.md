@@ -1,14 +1,8 @@
-![wolf_wall_street2](https://github.com/user-attachments/assets/25616e98-0002-4345-81c7-a5dfdf919f83)
-
-🏗️ Architectural Engineer | 💻 Digital Transformation Specialist | 🔐 Cybersecurity Enthusiast
-I'm an Architectural Engineer with a passion for innovative, sustainable, and efficient design. My career spans Construction Documentation, Project Supervision, and Digital Transformation, always focusing on delivering exceptional results while embracing cutting-edge technologies.
+<img width="626" height="417" alt="image" src="https://github.com/user-attachments/assets/94cf55a9-8d9b-4ad2-ac17-cb2398a62a59" />
 
 
+![V_FORVENDETA](https://github.com/user-attachments/assets/73af216c-c4aa-437f-9fcc-c9a32a11a493)
 
-https://github.com/user-attachments/assets/3818e243-b3e6-478c-ab94-5f506c42a6ae
-
-
-What I Do 🏛️ Architectural Design I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical. 📐 Construction Documents & Project Supervision From detailed construction plans to on-site execution, I ensure every project progresses smoothly, meeting regulatory standards and maintaining top-quality execution throughout. 💡 Digital Transformation & Tailored Solutions As a tech advocate, I leverage tools like BIM (Building Information Modeling) to streamline workflows, enhance collaboration, and create customized digital solutions that drive efficiency and improve outcomes. 📊 Budget Planning & Review I excel at managing budgets, analyzing costs, and ensuring financial efficiency without compromising on quality. My strategic approach ensures projects stay on budget and meet high standards of excellence.
 
 🛠️ Technical Skills
 
