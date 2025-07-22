@@ -31,18 +31,10 @@ I excel at managing budgets, analyzing costs, and ensuring financial efficiency 
 
  ### Profile Views :<br>
  
-
-
-https://github.com/user-attachments/assets/fd1e7337-be55-4aa4-a653-ad12222c0956
-
-
-
-
   ## **Thank You for Visiting My Profile** 
   
   ## **Last Edited on: 22.07.2025**
 
-![giphy](https://github.com/user-attachments/assets/499b684c-0e9d-4d83-9680-2de96b7ac2c0)
 
 
 ![MIDJOURNEY](https://github.com/user-attachments/assets/52947933-a663-424d-bee8-57f7589d1837)
@@ -55,11 +47,6 @@ https://github.com/user-attachments/assets/fd1e7337-be55-4aa4-a653-ad12222c0956
 
 
 ![teaser_study](https://github.com/user-attachments/assets/248f65a6-d6b0-4d62-93b7-24be04c6eb3e)
-
-
-
-
-
 
 ![READEME_REACT](https://github.com/user-attachments/assets/7d210e2c-4698-46a4-a84c-08965e55178d)
 
