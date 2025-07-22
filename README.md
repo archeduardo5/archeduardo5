@@ -1,134 +1,20 @@
 ![wolf_wall_street2](https://github.com/user-attachments/assets/25616e98-0002-4345-81c7-a5dfdf919f83)
 
+🏗️ Architectural Engineer | 💻 Digital Transformation Specialist | 🔐 Cybersecurity Enthusiast
+I'm an Architectural Engineer with a passion for innovative, sustainable, and efficient design. My career spans Construction Documentation, Project Supervision, and Digital Transformation, always focusing on delivering exceptional results while embracing cutting-edge technologies.
 
+🎓 Recent Certifications
 
 
 
-![The_Wolf_of_BIM](https://github.com/user-attachments/assets/c43fe643-342e-4c76-9615-f7d9f917b888)
+<img width="1252" height="842" alt="JOB_MARQUERT_TCM_EIG" src="https://github.com/user-attachments/assets/6ee03a18-dd82-4bde-8161-b84b270cd5b3" />
 
+<img width="1258" height="839" alt="Captura de pantalla 2025-07-22 010559" src="https://github.com/user-attachments/assets/be959e73-e0be-4863-b014-98a55be6666d" />
 
-![Cover_The_Wolf_of_BIM](https://github.com/user-attachments/assets/a7617f1e-b490-4d0f-baf0-5454c26d369a)
+<img width="1252" height="842" alt="Captura de pantalla 2025-07-22 005056" src="https://github.com/user-attachments/assets/2bb39c76-dc6b-40a7-b684-70e6238cf8ed" />
 
-![BIMSUPERSTART](https://github.com/user-attachments/assets/07ff8ae5-4c9a-45ec-9247-6b668ff03ca8)
 
 
-
-Hi, 
-I'm Eduardo Ibarra! 
-I'm an Architectural Engineer with a passion for innovative, sustainable, and efficient design. My career spans Construction Documentation, Project Supervision, and Digital Transformation, always focusing on delivering exceptional results. Here’s how I make an impact:
-
-
-
-
-
-
-![0139d35e-7f35-418b-9595-8a7b6817bebb](https://github.com/user-attachments/assets/57d21c8a-5a64-4c26-ad79-7f0709429e2e)
-
-
-
-
-
-
-
-
-🌱 Architectural Design
-I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical.
-
-![schematic_design](https://github.com/user-attachments/assets/c070dfe7-1b72-4610-b94d-ed06bd3b7343)
-
-
-📐 Construction Documents & Project Supervision
-From detailed construction plans to on-site execution, I ensure every project progresses smoothly, meeting regulatory standards and maintaining top-quality execution throughout.
-
-
-![DASschematic_design](https://github.com/user-attachments/assets/2f4c2bca-5676-488f-9732-d5222c93f6fd)
-
-
-![fcapp_bd3b0a46-70d3-438c-bb3e-0041e5d834f6_1622523893496](https://github.com/user-attachments/assets/054f01be-ba96-4c4b-a115-450e560f045e)
-
-
-
-![newscontent-924b4671-784e-43b1-8f07-25e49655a5e2-1736062093538](https://github.com/user-attachments/assets/5d9f1c14-c4dc-4c0e-8d7e-0e9d6d35d129)
-
-
-💡 Digital Transformation & Tailored Solutions
-As a tech advocate, I leverage tools like BIM (Building Information Modeling) to streamline workflows, enhance collaboration, and create customized digital solutions that drive efficiency and improve outcomes.
-
-
-
-![651e3e4c-b335-4d95-9716-b7c4f750b702](https://github.com/user-attachments/assets/f6e9e311-a74b-40a5-873a-9daafdedd91e)
-
-
-📊 Budget Planning & Review
-I excel at managing budgets, analyzing costs, and ensuring financial efficiency without compromising on quality. My strategic approach ensures projects stay on budget and meet high standards of excellence.
-
-
-![Maquette](https://github.com/user-attachments/assets/e13d75d6-8bc8-4831-8c0a-66cff5b87212)
-
-
-💼 End-to-End Project Commitment
-I’m fully dedicated to every project, from concept to completion, ensuring everything runs smoothly, on time, and within budget, with exceptional results at every stage.
-
-
-
-![banner-1-1024x541](https://github.com/user-attachments/assets/b22e6566-a7fb-45f9-b2a5-343e2713b7ba)
-
-
-
-📏 BIM Standards Expertise
-With hands-on experience in BIM strategies, I’m well-versed in key international standards such as:
-
-
-![R (2)](https://github.com/user-attachments/assets/f63ab35a-1372-4a88-9da1-55f3ab9d19c3)
-
-
-ISO 19650: Managing information throughout the project lifecycle.
-
-![logo-ISO-19650-1030x839-1](https://github.com/user-attachments/assets/21e9bb56-f46c-4b9c-a009-d5ba521e185b)
-
-
-
-AIA: Integrating BIM into architectural contracts.
-
-
-
-![AIA](https://github.com/user-attachments/assets/3bd84d58-e36c-4ed2-8c11-d4bea5141af8)
-
-
-
-RIBA Plan of Work: Managing projects with BIM in the UK.
-
-![THERIBAUK](https://github.com/user-attachments/assets/a60ea7ee-fad4-4f3b-8251-dcba2fc7cdae)
-
-
-
-Buildings S-Mart: Implementing innovative BIM solutions for commercial and retail spaces.
-
-![Buildings S-Mart](https://github.com/user-attachments/assets/0612c391-b1cc-4921-8724-4e46793f0711)
-
-
-![252170fa-900e-40bf-a121-49f9bce2bc77](https://github.com/user-attachments/assets/dcd4f325-ae7f-4031-814f-37da5f1a67bb)
-
-
-
-🎮 Programming
-In my free time, I enjoy programming and exploring new technologies. I love creating digital solutions and customizing tools to improve processes.
-
-
-![c7040c84-f0b4-47ad-9ab8-5f390cee14ae](https://github.com/user-attachments/assets/bb1d8435-85d5-40ab-bd5e-6b110c439c22)
-
-
-📸 Photography & Editing
-I also have a passion for photography and editing, capturing moments and transforming images by combining creativity and technical skills.
-
-
-
-![0f6c9507-18b4-4ef9-8ab9-527647415f13](https://github.com/user-attachments/assets/6d96ba99-9a12-4db6-97c1-267fe7b6e6f5)
-
-
-
-
-Let’s connect and collaborate on innovative solutions that shape the future of architecture and design! 🌟
 
 
 
@@ -137,6 +23,7 @@ Let’s connect and collaborate on innovative solutions that shape the future of
 
 
  ### Profile Views :<br>
+ 
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
 
@@ -160,7 +47,7 @@ https://github.com/user-attachments/assets/fd1e7337-be55-4aa4-a653-ad12222c0956
 
   ## **Thank You for Visiting My Profile** 
   
-  ## **Last Edited on: 13.02.2025**
+  ## **Last Edited on: 22.07.2025**
 
 
 ![giphy](https://github.com/user-attachments/assets/499b684c-0e9d-4d83-9680-2de96b7ac2c0)
