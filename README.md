@@ -6,7 +6,6 @@ I'm an Architectural Engineer with a passion for innovative, sustainable, and ef
 🎓 Recent Certifications
 
 
-
 <img width="1252" height="842" alt="JOB_MARQUERT_TCM_EIG" src="https://github.com/user-attachments/assets/6ee03a18-dd82-4bde-8161-b84b270cd5b3" />
 
 <img width="1258" height="839" alt="Captura de pantalla 2025-07-22 010559" src="https://github.com/user-attachments/assets/be959e73-e0be-4863-b014-98a55be6666d" />
@@ -14,59 +13,45 @@ I'm an Architectural Engineer with a passion for innovative, sustainable, and ef
 <img width="1252" height="842" alt="Captura de pantalla 2025-07-22 005056" src="https://github.com/user-attachments/assets/2bb39c76-dc6b-40a7-b684-70e6238cf8ed" />
 
 
+🎓 Recent Certifications
 
+🔐 TCM Security Certifications (2025)
 
+🚀 What I Do
+🏛️ Architectural Design
+I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical.
+📐 Construction Documents & Project Supervision
+From detailed construction plans to on-site execution, I ensure every project progresses smoothly, meeting regulatory standards and maintaining top-quality execution throughout.
+💡 Digital Transformation & Tailored Solutions
+As a tech advocate, I leverage tools like BIM (Building Information Modeling) to streamline workflows, enhance collaboration, and create customized digital solutions that drive efficiency and improve outcomes.
+📊 Budget Planning & Review
+I excel at managing budgets, analyzing costs, and ensuring financial efficiency without compromising on quality. My strategic approach ensures projects stay on budget and meet high standards of excellence.
 
-
-
-![highly_advanced_robotic_stingray_designed_with_a_st_e5066b12-485e-46ce-9648-1a87d9ba4afe](https://github.com/user-attachments/assets/893868f5-46e7-4dd5-9244-1a576e4e1fc0)
-
+🛠️ Technical Skills
 
  ### Profile Views :<br>
  
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
-
-![WOLFy](https://github.com/user-attachments/assets/24f827b2-31f2-4027-9991-5e0ff92a60c9)
-
-  
-
-
-
-
-
 https://github.com/user-attachments/assets/fd1e7337-be55-4aa4-a653-ad12222c0956
-
-
- 
 
  ![u1367294228_CREATE_infographic_like_the_attached _COLOR_Dark__0aa97366-aabe-464d-903a-98c4a97537ec_2](https://github.com/user-attachments/assets/cc73f087-0f05-48d4-8a86-c9e86c3698ad)
 
-
-  Let's build the future! 🌍
 
   ## **Thank You for Visiting My Profile** 
   
   ## **Last Edited on: 22.07.2025**
 
-
 ![giphy](https://github.com/user-attachments/assets/499b684c-0e9d-4d83-9680-2de96b7ac2c0)
 
-🚀 Let’s connect and collaborate to build something exceptional together! 🚀
 
 ![MIDJOURNEY](https://github.com/user-attachments/assets/52947933-a663-424d-bee8-57f7589d1837)
 
 ![HUMAN_AI_FUTURE_TO_DAY](https://github.com/user-attachments/assets/1f4e2f8f-ae8e-4784-ba47-5437ea2377c7)
 
-
-
 ![Enscape_2025-01-10-12-53-24](https://github.com/user-attachments/assets/be7407c1-e63b-4d23-9000-5b4984fbd384)
 
-
-
-
 ![68747470733a2f2f692e6962622e636f2f38364e514435632f7468756d626e61696c2d33642d706f7274666f6c696f2d736d616c6c65722e6a7067](https://github.com/user-attachments/assets/d8b6ff16-e151-4a3f-82d1-55db0ee1805d)
-
 
 
 ![teaser_study](https://github.com/user-attachments/assets/248f65a6-d6b0-4d62-93b7-24be04c6eb3e)
