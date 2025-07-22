@@ -31,11 +31,11 @@ I excel at managing budgets, analyzing costs, and ensuring financial efficiency 
 
  ### Profile Views :<br>
  
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+
 
 https://github.com/user-attachments/assets/fd1e7337-be55-4aa4-a653-ad12222c0956
 
- ![u1367294228_CREATE_infographic_like_the_attached _COLOR_Dark__0aa97366-aabe-464d-903a-98c4a97537ec_2](https://github.com/user-attachments/assets/cc73f087-0f05-48d4-8a86-c9e86c3698ad)
+
 
 
   ## **Thank You for Visiting My Profile** 
@@ -384,14 +384,9 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 ![giphy](https://github.com/user-attachments/assets/a6a429b1-7de8-4af7-b532-155df03383c6)
 
-♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
-♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
 
+<img width="474" height="422" alt="image" src="https://github.com/user-attachments/assets/710c2130-bd30-4598-846f-9088eb7215b9" />
 
-![Faithless - Insomnia](https://github.com/user-attachments/assets/9b550b1e-166c-497a-a4fd-de5c8337fd87)
-
-
- 
                
 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
