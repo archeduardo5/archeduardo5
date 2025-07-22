@@ -3,6 +3,13 @@
 🏗️ Architectural Engineer | 💻 Digital Transformation Specialist | 🔐 Cybersecurity Enthusiast
 I'm an Architectural Engineer with a passion for innovative, sustainable, and efficient design. My career spans Construction Documentation, Project Supervision, and Digital Transformation, always focusing on delivering exceptional results while embracing cutting-edge technologies.
 
+
+
+https://github.com/user-attachments/assets/3818e243-b3e6-478c-ab94-5f506c42a6ae
+
+
+What I Do 🏛️ Architectural Design I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical. 📐 Construction Documents & Project Supervision From detailed construction plans to on-site execution, I ensure every project progresses smoothly, meeting regulatory standards and maintaining top-quality execution throughout. 💡 Digital Transformation & Tailored Solutions As a tech advocate, I leverage tools like BIM (Building Information Modeling) to streamline workflows, enhance collaboration, and create customized digital solutions that drive efficiency and improve outcomes. 📊 Budget Planning & Review I excel at managing budgets, analyzing costs, and ensuring financial efficiency without compromising on quality. My strategic approach ensures projects stay on budget and meet high standards of excellence.
+
 🛠️ Technical Skills
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
@@ -37,8 +44,7 @@ I'm an Architectural Engineer with a passion for innovative, sustainable, and ef
 
 🔐 TCM Security Certifications (2025)
 
-🚀 What I Do 🏛️ Architectural Design I specialize in creating functional and aesthetically pleasing spaces that meet client needs and industry standards. I blend creativity with technical expertise to deliver designs that are both inspiring and practical. 📐 Construction Documents & Project Supervision From detailed construction plans to on-site execution, I ensure every project progresses smoothly, meeting regulatory standards and maintaining top-quality execution throughout. 💡 Digital Transformation & Tailored Solutions As a tech advocate, I leverage tools like BIM (Building Information Modeling) to streamline workflows, enhance collaboration, and create customized digital solutions that drive efficiency and improve outcomes. 📊 Budget Planning & Review I excel at managing budgets, analyzing costs, and ensuring financial efficiency without compromising on quality. My strategic approach ensures projects stay on budget and meet high standards of excellence.
-
+🚀
 
 🎓 Recent Certifications
 
