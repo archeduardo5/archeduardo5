@@ -62,10 +62,13 @@ As a tech advocate, I leverage tools like BIM (Building Information Modeling) to
 📊 Budget Planning & Review
 I excel at managing budgets, analyzing costs, and ensuring financial efficiency without compromising on quality. My strategic approach ensures projects stay on budget and meet high standards of excellence.
 
-🛠️ Technical Skills
 
- ### Profile Views :<br>
- 
+
+
+
+
+
+
   ## **Thank You for Visiting My Profile** 
   
   ## **Last Edited on: 22.07.2025**
