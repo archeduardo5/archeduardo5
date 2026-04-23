@@ -37,14 +37,6 @@
 
 🚀
 
-🎓 Recent Certifications
-
-
-<img width="1252" height="842" alt="JOB_MARQUERT_TCM_EIG" src="https://github.com/user-attachments/assets/6ee03a18-dd82-4bde-8161-b84b270cd5b3" />
-
-<img width="1258" height="839" alt="Captura de pantalla 2025-07-22 010559" src="https://github.com/user-attachments/assets/be959e73-e0be-4863-b014-98a55be6666d" />
-
-<img width="1252" height="842" alt="Captura de pantalla 2025-07-22 005056" src="https://github.com/user-attachments/assets/2bb39c76-dc6b-40a7-b684-70e6238cf8ed" />
 
 
 🎓 Recent Certifications
