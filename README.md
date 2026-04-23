@@ -1,9 +1,4 @@
 
-![V_FORVENDETA](https://github.com/user-attachments/assets/73af216c-c4aa-437f-9fcc-c9a32a11a493)
-
-
-
-<img width="1060" height="663" alt="image" src="https://github.com/user-attachments/assets/1f68d4b7-063a-4d97-aef5-44d032760fdf" />
 
 
 🛠️ Technical Skills
