@@ -1,7 +1,8 @@
 <img width="2000" height="2000" alt="PNPT" src="https://github.com/user-attachments/assets/eca2d628-f738-402f-b084-04978b93c51a" />
 
 
-[certificate-of-completion-for-ai-hacking-101.pdf](https://github.com/user-attachments/files/27097931/certificate-of-completion-for-ai-hacking-101.pdf)
+<img width="792" height="614" alt="image" src="https://github.com/user-attachments/assets/4a96a185-d53f-46dc-ba85-69f19d69502c" />
+
 
 
 
