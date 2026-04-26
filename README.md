@@ -1,6 +1,10 @@
 <img width="2000" height="2000" alt="PNPT" src="https://github.com/user-attachments/assets/eca2d628-f738-402f-b084-04978b93c51a" />
 
 
+[certificate-of-completion-for-ai-hacking-101.pdf](https://github.com/user-attachments/files/27097931/certificate-of-completion-for-ai-hacking-101.pdf)
+
+
+
 
 🛠️ Technical Skills
 
